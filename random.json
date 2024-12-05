@@ -1,0 +1,2904 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 9",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 549,
+    "availability": true,
+    "discountPercentage": 12.96,
+    "stock": 94,
+    "brand": "Apple",
+    "subCategory": ["Smartphones", "Electronic"],
+    "category": "Smartphones",
+    "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/5/i/7/-original-imaguypzzhbzm5an.jpeg?q=70",
+    "images": [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+    ],
+    "highlights": [
+      "An apple mobile which is nothing like apple",
+      "6.5-inch Super Retina HD display",
+      "OLED technology",
+      "A12 Bionic chip"
+    ],
+    "details": "Experience the innovation with the iPhone 9. This Apple mobile redefines technology, featuring a 6.5-inch Super Retina HD display, cutting-edge OLED technology, and the powerful A12 Bionic chip. Elevate your mobile experience."
+  },
+  {
+    "id": 2,
+    "title": "iPhone X",
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "price": 899,
+    "availability": true,
+    "discountPercentage": 17.94,
+    "stock": 34,
+    "brand": "Apple",
+    "subCategory": ["Smartphones", "Electronic"],
+    "category": "Smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg",
+      "https://i.dummyjson.com/data/products/2/3.jpg",
+      "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+    ],
+    "highlights": [
+      "SIM-Free, Model A19211 6.5-inch Super Retina HD display",
+      "OLED technology",
+      "A12 Bionic chip"
+    ],
+    "details": "Discover the iPhone X, a SIM-Free model featuring the A19211 6.5-inch Super Retina HD display with OLED technology and the powerful A12 Bionic chip. Immerse yourself in cutting-edge technology."
+  },
+  {
+    "id": 3,
+    "title": "Samsung Universe 9",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "price": 1249,
+    "availability": true,
+    "discountPercentage": 15.46,
+    "stock": 36,
+    "brand": "Samsung",
+    "subCategory": ["Smartphones", "Electronic"],
+    "category": "Smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "images": ["https://i.dummyjson.com/data/products/3/1.jpg"],
+    "highlights": [
+      "Samsung's new variant",
+      "Goes beyond Galaxy",
+      "Explore the Universe"
+    ],
+    "details": "Introducing the Samsung Universe 9, a new variant that goes beyond the Galaxy. Explore the vastness of the Universe with cutting-edge features and innovative technology."
+  },
+  {
+    "id": 4,
+    "title": "OPPOF19",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "price": 280,
+    "availability": true,
+    "discountPercentage": 17.91,
+    "stock": 123,
+    "brand": "OPPO",
+    "subCategory": ["Smartphones", "Electronic"],
+    "category": "Smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg",
+      "https://i.dummyjson.com/data/products/4/3.jpg",
+      "https://i.dummyjson.com/data/products/4/4.jpg",
+      "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Officially announced on April 2021",
+      "Explore the features",
+      "Cutting-edge technology"
+    ],
+    "details": "Discover the OPPO F19, officially announced in April 2021. Explore the features and experience cutting-edge technology with this innovative smartphone."
+  },
+  {
+    "id": 5,
+    "title": "Huawei P30",
+    "description": "Huawei re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "price": 499,
+    "availability": true,
+    "discountPercentage": 10.58,
+    "stock": 32,
+    "brand": "Huawei",
+    "subCategory": ["Smartphones", "Electronic"],
+    "category": "Smartphones",
+    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg",
+      "https://i.dummyjson.com/data/products/5/3.jpg"
+    ],
+    "highlights": [
+      "Re-badged P30 Pro New Edition",
+      "Officially unveiled in Germany",
+      "Now available in the UK"
+    ],
+    "details": "Experience the Huawei P30, a re-badged P30 Pro New Edition officially unveiled in Germany. Now, this innovative device has made its way to the UK."
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro",
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "price": 1749,
+    "availability": true,
+    "discountPercentage": 11.02,
+    "stock": 83,
+    "brand": "Apple",
+    "subCategory": ["Laptops", "Electronic"],
+    "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/t/s/a/-original-imagtq47gch4arng.jpeg?q=70",
+    "category": "Laptops",
+    "images": [
+      "https://i.dummyjson.com/data/products/6/1.png",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg"
+    ],
+    "highlights": [
+      "2021 MacBook Pro",
+      "Mini-LED display",
+      "Launch expected between September and November"
+    ],
+    "details": "Unleash the power of the MacBook Pro 2021 with a stunning mini-LED display. Anticipate its launch between September and November, setting new standards in laptop technology."
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy Book",
+    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "price": 1499,
+    "availability": true,
+    "discountPercentage": 4.15,
+    "stock": 50,
+    "brand": "Samsung",
+    "subCategory": ["Laptops", "Electronic"],
+    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "category": "Smartphones",
+    "images": [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg",
+      "https://i.dummyjson.com/data/products/7/3.jpg",
+      "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Galaxy Book S (2020) Laptop",
+      "Intel Lakefield Chip",
+      "8GB of RAM"
+    ],
+    "details": "Introducing the Samsung Galaxy Book S (2020) Laptop with an Intel Lakefield Chip and 8GB of RAM. Experience seamless performance and cutting-edge technology in a sleek design."
+  },
+  {
+    "id": 8,
+    "title": "Microsoft Surface Laptop 4",
+    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "price": 1499,
+    "availability": true,
+    "discountPercentage": 10.23,
+    "stock": 68,
+    "brand": "Microsoft Surface",
+    "subCategory": ["Laptops", "Electronic"],
+    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "category": "Laptops",
+    "images": [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg",
+      "https://i.dummyjson.com/data/products/8/3.jpg",
+      "https://i.dummyjson.com/data/products/8/4.jpg",
+      "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Style and speed",
+      "HD video calls with Studio Mics",
+      "Vibrant touchscreen for capturing ideas"
+    ],
+    "details": "Embrace style and speed with the Microsoft Surface Laptop 4. Stand out on HD video calls backed by Studio Mics and capture your creative ideas on the vibrant touchscreen."
+  },
+  {
+    "id": 9,
+    "title": "Infinix INBOOK",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "price": 1099,
+    "availability": true,
+    "discountPercentage": 11.83,
+    "stock": 96,
+    "brand": "Infinix",
+    "subCategory": ["Laptops", "Electronic"],
+    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "category": "Laptops",
+    "images": [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.png",
+      "https://i.dummyjson.com/data/products/9/3.png",
+      "https://i.dummyjson.com/data/products/9/4.jpg",
+      "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Inbook X1 Ci3 10th",
+      "8GB RAM, 256GB storage",
+      "14 Win10 Grey",
+      "1 Year Warranty"
+    ],
+    "details": "Get the Infinix Inbook X1 Ci3 with 10th Gen Intel, 8GB RAM, and 256GB storage. The 14-inch Win10 laptop in stylish grey comes with a 1 Year Warranty, offering a powerful and reliable computing experience."
+  },
+  {
+    "id": 10,
+    "title": "HP Pavilion 15-DK1056WM",
+    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "price": 1099,
+    "availability": true,
+    "discountPercentage": 6.18,
+    "stock": 89,
+    "brand": "HP Pavilion",
+    "subCategory": ["Laptops", "Electronic"],
+    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+    "category": "Laptops",
+    "images": [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg",
+      "https://i.dummyjson.com/data/products/10/3.jpg",
+      "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
+    ],
+    "highlights": [
+      "Gaming Laptop",
+      "10th Gen Core i5",
+      "8GB RAM, 256GB SSD",
+      "GTX 1650 4GB, Windows 10"
+    ],
+    "details": "Level up your gaming experience with the HP Pavilion 15-DK1056WM. This gaming laptop features a 10th Gen Core i5, 8GB RAM, 256GB SSD, GTX 1650 4GB, and Windows 10. Dominate the virtual world with powerful performance."
+  },
+
+  {
+    "id": 11,
+    "title": "Perfume Oil",
+    "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar Perfume Oil",
+    "price": 13,
+    "availability": true,
+    "discountPercentage": 8.4,
+    "stock": 65,
+    "brand": "Impression of Acqua Di Gio",
+    "subCategory": ["fragrances", "Perfume"],
+    "category": "Perfume",
+    "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/11/1.jpg",
+      "https://i.dummyjson.com/data/products/11/2.jpg",
+      "https://i.dummyjson.com/data/products/11/3.jpg",
+      "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Mega Discount",
+      "Concentrated attar Perfume Oil",
+      "Impression of Acqua Di Gio by Giorgio Armani"
+    ],
+    "details": "Indulge in luxury with this Perfume Oil. Avail mega discounts on this concentrated attar Perfume Oil, offering an impression of the iconic Acqua Di Gio by Giorgio Armani."
+  },
+  {
+    "id": 12,
+    "title": "Brown Perfume",
+    "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 15.66,
+    "stock": 52,
+    "brand": "Royal_Mirage",
+    "subCategory": ["fragrances", "Perfume"],
+    "category": "Perfume",
+    "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/12/1.jpg",
+      "https://i.dummyjson.com/data/products/12/2.jpg",
+      "https://i.dummyjson.com/data/products/12/3.png",
+      "https://i.dummyjson.com/data/products/12/4.jpg",
+      "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Royal_Mirage Sport Brown Perfume",
+      "For Men & Women",
+      "120ml"
+    ],
+    "details": "Experience the enchanting fragrance of Royal_Mirage Sport Brown Perfume. Specially crafted for both men and women, this perfume comes in a generous 120ml bottle."
+  },
+  {
+    "id": 13,
+    "title": "Fog Scent Xpressio Perfume",
+    "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting Perfumes for Men",
+    "price": 13,
+    "availability": true,
+    "discountPercentage": 8.14,
+    "stock": 61,
+    "brand": "Fog Scent Xpressio",
+    "subCategory": ["fragrances", "Perfume", "Mens Collection"],
+    "category": "Perfume",
+    "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/13/1.jpg",
+      "https://i.dummyjson.com/data/products/13/2.png",
+      "https://i.dummyjson.com/data/products/13/3.jpg",
+      "https://i.dummyjson.com/data/products/13/4.jpg",
+      "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+    ],
+    "highlights": [
+      "Cool long-lasting Perfume for Men",
+      "Best Fog Scent Xpressio Perfume",
+      "100ml"
+    ],
+    "details": "Discover the best in men's fragrances with Fog Scent Xpressio Perfume. Enjoy the cool and long-lasting scent that defines this 100ml masterpiece."
+  },
+  {
+    "id": 14,
+    "title": "Non-Alcoholic Concentrated Perfume Oil",
+    "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
+    "price": 120,
+    "availability": true,
+    "discountPercentage": 15.6,
+    "stock": 114,
+    "brand": "Al Munakh",
+    "subCategory": ["fragrances", "Perfume"],
+    "category": "Perfume",
+    "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/14/1.jpg",
+      "https://i.dummyjson.com/data/products/14/2.jpg",
+      "https://i.dummyjson.com/data/products/14/3.jpg",
+      "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Original Al Munakh® by Mahal Al Musk",
+      "Non-Alcoholic Concentrated Perfume Oil",
+      "Impression of Climate"
+    ],
+    "details": "Indulge in the exotic with Al Munakh® by Mahal Al Musk. This 6ml Non-Alcoholic Concentrated Perfume Oil is our impression of the invigorating 'Climate'."
+  },
+  {
+    "id": 15,
+    "title": "Eau De Perfume Spray",
+    "description": "Genuine  Al-Rehab spray Perfume from UAE/Saudi Arabia/Yemen High Quality",
+    "price": 30,
+    "availability": true,
+    "discountPercentage": 10.99,
+    "stock": 105,
+    "brand": "Lord - Al-Rehab",
+    "subCategory": ["fragrances", "Perfume"],
+    "category": "Perfume",
+    "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/15/1.jpg",
+      "https://i.dummyjson.com/data/products/15/2.jpg",
+      "https://i.dummyjson.com/data/products/15/3.jpg",
+      "https://i.dummyjson.com/data/products/15/4.jpg",
+      "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Genuine Al-Rehab Spray Perfume",
+      "High Quality",
+      "From UAE/Saudi Arabia/Yemen"
+    ],
+    "details": "Experience the essence of the Middle East with Lord - Al-Rehab Eau De Perfume Spray. This high-quality fragrance is a genuine Al-Rehab spray from UAE/Saudi Arabia/Yemen."
+  },
+  {
+    "id": 16,
+    "title": "Hyaluronic Acid Serum",
+    "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+    "price": 19,
+    "availability": true,
+    "discountPercentage": 13.31,
+    "stock": 110,
+    "brand": "L'Oreal Paris",
+    "subCategory": ["Skincare"],
+    "category": "Skincare",
+    "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/16/1.png",
+      "https://i.dummyjson.com/data/products/16/2.webp",
+      "https://i.dummyjson.com/data/products/16/3.jpg",
+      "https://i.dummyjson.com/data/products/16/4.jpg",
+      "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Formulated with 1.5% Hyaluronic Acid",
+      "Hyaluron Expert Replumping Serum",
+      "L'OrÃ©al Paris"
+    ],
+    "details": "Achieve a radiant and hydrated skin with L'Oreal Paris Hyaluron Expert Replumping Serum. This serum is formulated with 1.5% Hyaluronic Acid for a rejuvenated complexion."
+  },
+  {
+    "id": 17,
+    "title": "Tree Oil 30ml",
+    "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
+    "price": 12,
+    "availability": true,
+    "discountPercentage": 4.09,
+    "stock": 78,
+    "brand": "Hemani Tea",
+    "subCategory": ["Skincare"],
+    "category": "Skincare",
+    "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/17/1.jpg",
+      "https://i.dummyjson.com/data/products/17/2.jpg",
+      "https://i.dummyjson.com/data/products/17/3.jpg",
+      "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Tea Tree Oil 30ml",
+      "Kills Certain Bacteria",
+      "Natural Skincare Solution"
+    ],
+    "details": "Discover the power of nature with Hemani Tea Tree Oil. Containing compounds like terpinen-4-ol, this 30ml bottle provides a natural skincare solution with antibacterial properties."
+  },
+  {
+    "id": 18,
+    "title": "Oil Free Moisturizer 100ml",
+    "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 13.1,
+    "stock": 88,
+    "brand": "Dermive",
+    "subCategory": ["Skincare"],
+    "category": "Skincare",
+    "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/18/1.jpg",
+      "https://i.dummyjson.com/data/products/18/2.jpg",
+      "https://i.dummyjson.com/data/products/18/3.jpg",
+      "https://i.dummyjson.com/data/products/18/4.jpg",
+      "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Oil-Free Moisturizer with SPF 20",
+      "Formulated with Ceramides & Hyaluronic Acid",
+      "Dermive Skincare"
+    ],
+    "details": "Experience skin hydration without the greasy feel with Dermive Oil-Free Moisturizer. Formulated with ceramides, hyaluronic acid, and SPF 20, it provides effective skincare for a radiant complexion."
+  },
+  {
+    "id": 19,
+    "title": "Skin Beauty Serum.",
+    "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 10.68,
+    "stock": 54,
+    "brand": "ROREC White Rice",
+    "subCategory": ["Skincare"],
+    "category": "Skincare",
+    "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/19/1.jpg",
+      "https://i.dummyjson.com/data/products/19/2.jpg",
+      "https://i.dummyjson.com/data/products/19/3.png",
+      "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+    ],
+    "highlights": [
+      "ROREC Collagen Hyaluronic Acid White Face Serum",
+      "Net weight: 15ml",
+      "Skin Beauty Serum"
+    ],
+    "details": "Transform your skincare routine with ROREC Collagen Hyaluronic Acid White Face Serum. With a net weight of 15ml, this serum is your go-to solution for achieving skin beauty."
+  },
+  {
+    "id": 20,
+    "title": "Freckle Treatment Cream- 15gm",
+    "description": "Fair & Clear is Pakistan's only pure Freckle cream which helps fade Freckles, Dark spots and pigments. Mercury level is 0%, so there are no side effects.",
+    "price": 70,
+    "availability": true,
+    "discountPercentage": 16.99,
+    "stock": 140,
+    "brand": "Fair & Clear",
+    "subCategory": ["Skincare"],
+    "category": "Skincare",
+    "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/20/1.jpg",
+      "https://i.dummyjson.com/data/products/20/2.jpg",
+      "https://i.dummyjson.com/data/products/20/3.jpg",
+      "https://i.dummyjson.com/data/products/20/4.jpg",
+      "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Pure Freckle Cream",
+      "Helps Fade Freckles, Dark Spots, and Pigments",
+      "Mercury Level: 0%, No Side Effects"
+    ],
+    "details": "Embrace flawless skin with Fair & Clear Freckle Treatment Cream. This pure freckle cream is designed to fade freckles, dark spots, and pigments without any side effects. Mercury level: 0%."
+  },
+  {
+    "id": 21,
+    "title": "- Daal Masoor 500 grams",
+    "description": "Fine quality Branded Product Keep in a cool and dry place",
+    "price": 20,
+    "availability": true,
+    "discountPercentage": 4.81,
+    "stock": 133,
+    "brand": "Saaf & Khaas",
+    "subCategory": ["Groceries", "Home"],
+    "category": "Groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
+    "images": [
+      "https://i.dummyjson.com/data/products/21/1.png",
+      "https://i.dummyjson.com/data/products/21/2.jpg",
+      "https://i.dummyjson.com/data/products/21/3.jpg"
+    ],
+    "highlights": [
+      "Fine Quality Branded Product",
+      "Keep in a Cool and Dry Place",
+      "500 grams"
+    ],
+    "details": "Experience fine quality with Saaf & Khaas Daal Masoor. This 500-gram branded product ensures freshness and taste. Keep it in a cool and dry place for optimal quality."
+  },
+  {
+    "id": 22,
+    "title": "Elbow Macaroni - 400 gm",
+    "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+    "price": 14,
+    "availability": true,
+    "discountPercentage": 15.58,
+    "stock": 146,
+    "brand": "Bake Parlor Big",
+    "subCategory": ["Groceries", "Home"],
+    "category": "Groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/22/1.jpg",
+      "https://i.dummyjson.com/data/products/22/2.jpg",
+      "https://i.dummyjson.com/data/products/22/3.jpg"
+    ],
+    "highlights": [
+      "Bake Parlor Big Elbow Macaroni",
+      "400 gm",
+      "Perfect for Home Cooking"
+    ],
+    "details": "Explore the world of pasta with Bake Parlor Big Elbow Macaroni. This 400 gm pack is perfect for home cooking, bringing delight to your meals."
+  },
+  {
+    "id": 23,
+    "title": "Orange Essence Food Flavour",
+    "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
+    "price": 14,
+    "availability": true,
+    "discountPercentage": 8.04,
+    "stock": 26,
+    "brand": "Baking Food Items",
+    "subCategory": ["Groceries", "Home"],
+    "category": "Groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/23/1.jpg",
+      "https://i.dummyjson.com/data/products/23/2.jpg",
+      "https://i.dummyjson.com/data/products/23/3.jpg",
+      "https://i.dummyjson.com/data/products/23/4.jpg",
+      "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Orange Essence Food Flavour",
+      "Ideal for Cakes and Baking",
+      "Baking Food Items"
+    ],
+    "details": "Enhance your baking with Orange Essence Food Flavour. Perfect for cakes and baking, this product from Baking Food Items adds a delightful touch to your culinary creations."
+  },
+  {
+    "id": 24,
+    "title": "Cereals Muesli Fruit Nuts",
+    "description": "Original Fauji Cereal Muesli 250gm Box Pack. Fauji Cereals Muesli Fruit Nuts Flakes Breakfast Cereal",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 16.8,
+    "stock": 113,
+    "brand": "Fauji",
+    "subCategory": ["Groceries", "Home"],
+    "category": "Groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/24/1.jpg",
+      "https://i.dummyjson.com/data/products/24/2.jpg",
+      "https://i.dummyjson.com/data/products/24/3.jpg",
+      "https://i.dummyjson.com/data/products/24/4.jpg",
+      "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Original Fauji Cereal Muesli",
+      "250gm Box Pack",
+      "Nutritious Breakfast Cereal"
+    ],
+    "details": "Start your day right with Fauji Cereals Muesli Fruit Nuts. Packed with goodness, this 250gm box offers a nutritious breakfast cereal for a healthy and energetic start."
+  },
+  {
+    "id": 25,
+    "title": "Gulab Powder 50 Gram",
+    "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
+    "price": 70,
+    "availability": true,
+    "discountPercentage": 13.58,
+    "stock": 47,
+    "brand": "Dry Rose",
+    "subCategory": ["Groceries", "Home"],
+    "category": "Groceries",
+    "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/25/1.png",
+      "https://i.dummyjson.com/data/products/25/2.jpg",
+      "https://i.dummyjson.com/data/products/25/3.png",
+      "https://i.dummyjson.com/data/products/25/4.jpg",
+      "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Dry Rose Flower Powder",
+      "Gulab Powder 50 Gram",
+      "Treats Wounds"
+    ],
+    "details": "Experience the natural goodness of Dry Rose Gulab Powder. This 50 Gram pack is not only a treat for wounds but also a versatile addition to your home remedies."
+  },
+  {
+    "id": 26,
+    "title": "Plant Hanger For Home",
+    "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
+    "price": 41,
+    "availability": true,
+    "discountPercentage": 17.86,
+    "stock": 131,
+    "brand": "Boho Decor",
+    "subCategory": ["Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/26/1.jpg",
+      "https://i.dummyjson.com/data/products/26/2.jpg",
+      "https://i.dummyjson.com/data/products/26/3.jpg",
+      "https://i.dummyjson.com/data/products/26/4.jpg",
+      "https://i.dummyjson.com/data/products/26/5.jpg",
+      "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Boho Decor Plant Hanger",
+      "For Home Wall Decoration",
+      "Macrame Wall Hanging Shelf"
+    ],
+    "details": "Elevate your home decor with Boho Decor Plant Hanger. This intricate macrame wall hanging shelf adds a touch of bohemian charm to any space."
+  },
+  {
+    "id": 27,
+    "title": "Flying Wooden Bird",
+    "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
+    "price": 51,
+    "availability": true,
+    "discountPercentage": 15.58,
+    "stock": 17,
+    "brand": "Flying Wooden",
+    "subCategory": ["Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/27/1.jpg",
+      "https://i.dummyjson.com/data/products/27/2.jpg",
+      "https://i.dummyjson.com/data/products/27/3.jpg",
+      "https://i.dummyjson.com/data/products/27/4.jpg",
+      "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+    ],
+    "highlights": [
+      "Package Include 6 Birds",
+      "3D Shaped Wooden Birds",
+      "Laminated 3.5mm Material"
+    ],
+    "details": "Bring nature indoors with the Flying Wooden Bird decor. This package includes 6 3D shaped wooden birds with adhesive tape, made from high-quality laminated 3.5mm material."
+  },
+  {
+    "id": 28,
+    "title": "3D Embellishment Art Lamp",
+    "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
+    "price": 20,
+    "availability": true,
+    "discountPercentage": 16.49,
+    "stock": 54,
+    "brand": "LED Lights",
+    "subCategory": ["Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/28/1.jpg",
+      "https://i.dummyjson.com/data/products/28/2.jpg",
+      "https://i.dummyjson.com/data/products/28/3.png",
+      "https://i.dummyjson.com/data/products/28/4.jpg",
+      "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+    ],
+    "highlights": [
+      "3D LED Lamp Sticker",
+      "Wall Sticker 3D Wall Art Light",
+      "Cell Operated (Included)"
+    ],
+    "details": "Illuminate your space with the 3D Embellishment Art Lamp. This LED wall sticker features 3D wall art light with an on/off button, and it's cell operated (included) for convenience."
+  },
+  {
+    "id": 29,
+    "title": "Handcraft Chinese Style",
+    "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
+    "price": 60,
+    "availability": true,
+    "discountPercentage": 15.34,
+    "stock": 7,
+    "brand": "Luxury Palace",
+    "subCategory": ["Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/29/1.jpg",
+      "https://i.dummyjson.com/data/products/29/2.jpg",
+      "https://i.dummyjson.com/data/products/29/3.webp",
+      "https://i.dummyjson.com/data/products/29/4.webp",
+      "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+    ],
+    "highlights": [
+      "Chinese Style Art",
+      "Luxury Palace Decor",
+      "Ceramic Vase with Brass Fruit Plate"
+    ],
+    "details": "Add opulence to your space with Handcraft Chinese Style art. This luxury palace decor features a ceramic vase with a brass fruit plate, perfect for enhancing the ambiance of your home."
+  },
+  {
+    "id": 30,
+    "title": "Key Holder",
+    "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
+    "price": 30,
+    "availability": true,
+    "discountPercentage": 2.92,
+    "stock": 54,
+    "brand": "Golden",
+    "subCategory": ["Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/30/1.jpg",
+      "https://i.dummyjson.com/data/products/30/2.jpg",
+      "https://i.dummyjson.com/data/products/30/3.jpg",
+      "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Attractive Design",
+      "Metallic Material",
+      "Four Key Hooks",
+      "Reliable & Durable",
+      "Premium Quality"
+    ],
+    "details": "Organize your keys with style using the Golden Key Holder. Featuring an attractive design, metallic material, four key hooks, and premium quality for reliable and durable use."
+  },
+  {
+    "id": 31,
+    "title": "Mornadi Velvet Bed",
+    "description": "Mornadi Velvet Bed Base with Headboard Slats Support Classic Style Bedroom Furniture Bed Set",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 17,
+    "stock": 140,
+    "brand": "Furniture Bed Set",
+    "subCategory": ["Furniture", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/31/1.jpg",
+      "https://i.dummyjson.com/data/products/31/2.jpg",
+      "https://i.dummyjson.com/data/products/31/3.jpg",
+      "https://i.dummyjson.com/data/products/31/4.jpg",
+      "https://i.dummyjson.com/data/products/31/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Mornadi Velvet Bed Base",
+      "Classic Style Bedroom Furniture",
+      "Headboard Slats Support",
+      "Complete Bed Set"
+    ],
+    "details": "Upgrade your bedroom with the Mornadi Velvet Bed. This bed features a classic style, velvet bed base, headboard, and slats support for a comfortable and stylish bedroom furniture set."
+  },
+  {
+    "id": 32,
+    "title": "Sofa for Coffee Cafe",
+    "description": "Rattan Outdoor Furniture Set Waterproof Rattan Sofa for Coffee Cafe",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 15.59,
+    "stock": 30,
+    "brand": "Rattan Outdoor",
+    "subCategory": ["Furniture", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/32/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/32/1.jpg",
+      "https://i.dummyjson.com/data/products/32/2.jpg",
+      "https://i.dummyjson.com/data/products/32/3.jpg",
+      "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Rattan Outdoor Furniture Set",
+      "Waterproof Rattan Sofa",
+      "Ideal for Coffee Cafe"
+    ],
+    "details": "Enhance your cafe's outdoor space with the Rattan Outdoor Sofa. Waterproof and stylish, this furniture set is perfect for creating a cozy atmosphere in your coffee cafe."
+  },
+  {
+    "id": 33,
+    "title": "3 Tier Corner Shelves",
+    "description": "3 Tier Corner Shelves | 3 PCs Wall Mount Kitchen Shelf | Floating Bedroom Shelf",
+    "price": 700,
+    "availability": true,
+    "discountPercentage": 17,
+    "stock": 106,
+    "brand": "Kitchen Shelf",
+    "subCategory": ["Furniture", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/33/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/33/1.jpg",
+      "https://i.dummyjson.com/data/products/33/2.jpg",
+      "https://i.dummyjson.com/data/products/33/3.jpg",
+      "https://i.dummyjson.com/data/products/33/4.jpg",
+      "https://i.dummyjson.com/data/products/33/thumbnail.jpg"
+    ],
+    "highlights": [
+      "3 Tier Corner Shelves",
+      "Wall Mount Kitchen Shelf",
+      "Floating Bedroom Shelf"
+    ],
+    "details": "Maximize your storage space with the 3 Tier Corner Shelves. This set of three wall-mountable kitchen shelves is perfect for displaying and organizing items in your kitchen or bedroom."
+  },
+
+  {
+    "id": 34,
+    "title": "Plastic Table",
+    "description": "Very good quality plastic table for multi-purpose now at a reasonable price",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 4,
+    "stock": 136,
+    "brand": "Multi Purpose",
+    "subCategory": ["Furniture", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/34/1.jpg",
+      "https://i.dummyjson.com/data/products/34/2.jpg",
+      "https://i.dummyjson.com/data/products/34/3.jpg",
+      "https://i.dummyjson.com/data/products/34/4.jpg",
+      "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
+    ],
+    "highlights": [
+      "High-Quality Plastic Table",
+      "Multi-Purpose Use",
+      "Reasonable Price"
+    ],
+    "details": "Add convenience to your space with the Multi-Purpose Plastic Table. This high-quality table is suitable for various uses and comes at a reasonable price."
+  },
+  {
+    "id": 35,
+    "title": "3 DOOR PORTABLE",
+    "description": "Material: Stainless Steel and Fabric Item Size: 110 cm x 45 cm x 175 cm Package Contents: 1 Storage Wardrobe",
+    "price": 41,
+    "availability": true,
+    "discountPercentage": 7.98,
+    "stock": 68,
+    "brand": "AmnaMart",
+    "subCategory": ["Furniture", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/35/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/35/1.jpg",
+      "https://i.dummyjson.com/data/products/35/2.jpg",
+      "https://i.dummyjson.com/data/products/35/3.jpg",
+      "https://i.dummyjson.com/data/products/35/4.jpg",
+      "https://i.dummyjson.com/data/products/35/thumbnail.jpg"
+    ],
+    "highlights": [
+      "3 Door Portable Storage Wardrobe",
+      "Stainless Steel and Fabric Material",
+      "Size: 110 cm x 45 cm x 175 cm"
+    ],
+    "details": "Keep your belongings organized with the 3 Door Portable Storage Wardrobe from AmnaMart. Made of stainless steel and fabric, this wardrobe is portable and provides ample storage space."
+  },
+  {
+    "id": 36,
+    "title": "Sleeve Shirt Womens",
+    "description": "Cotton Solid Color Professional Wear Sleeve Shirt Womens Work Blouses Wholesale Clothing Casual Plain Custom Top OEM Customized",
+    "price": 90,
+    "availability": true,
+    "discountPercentage": 10.89,
+    "stock": 39,
+    "brand": "Professional Wear",
+    "subCategory": ["Tops", "Clothes", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/36/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/36/1.jpg",
+      "https://i.dummyjson.com/data/products/36/2.webp",
+      "https://i.dummyjson.com/data/products/36/3.webp",
+      "https://i.dummyjson.com/data/products/36/4.jpg",
+      "https://i.dummyjson.com/data/products/36/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Cotton Solid Color Sleeve Shirt",
+      "Professional Wear",
+      "Wholesale Clothing",
+      "Custom Top OEM Customized"
+    ],
+    "details": "Upgrade your work wardrobe with this Cotton Solid Color Sleeve Shirt for women. Professional wear, suitable for casual and business occasions. Available in sizes S, M, L, XL."
+  },
+  {
+    "id": 37,
+    "title": "Tank Tops for Womens/Girls",
+    "description": "PACK OF 3 CAMISOLES, VERY COMFORTABLE SOFT COTTON STUFF, COMFORTABLE IN ALL FOUR SEASONS",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 12.05,
+    "stock": 107,
+    "brand": "Soft Cotton",
+    "subCategory": ["Tops", "Clothes", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/37/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/37/1.jpg",
+      "https://i.dummyjson.com/data/products/37/2.jpg",
+      "https://i.dummyjson.com/data/products/37/3.jpg",
+      "https://i.dummyjson.com/data/products/37/4.jpg",
+      "https://i.dummyjson.com/data/products/37/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Pack of 3 Camisoles",
+      "Soft Cotton Material",
+      "Comfortable in All Seasons"
+    ],
+    "details": "Stay comfortable in all seasons with this pack of 3 Camisoles. Made of soft cotton material, these tank tops are perfect for everyday wear. Available in sizes S, M, L, XL."
+  },
+  {
+    "id": 38,
+    "title": "Sublimation Plain Kids Tank",
+    "description": "Sublimation Plain Kids Tank Tops Wholesale",
+    "price": 100,
+    "availability": true,
+    "discountPercentage": 11.12,
+    "stock": 20,
+    "brand": "Soft Cotton",
+    "subCategory": ["Kids Clothes", "Clothes", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/38/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/38/1.png",
+      "https://i.dummyjson.com/data/products/38/2.jpg",
+      "https://i.dummyjson.com/data/products/38/3.jpg",
+      "https://i.dummyjson.com/data/products/38/4.jpg"
+    ],
+    "highlights": [
+      "Sublimation Plain Kids Tank Tops",
+      "Wholesale",
+      "Soft Cotton Material"
+    ],
+    "details": "Keep your kids stylish with these sublimation plain tank tops. Available in wholesale, these tanks are made of soft cotton material. Sizes: S, M, L, XL."
+  },
+  {
+    "id": 39,
+    "title": "Women Sweaters Wool",
+    "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair Cos Customize Crew Neck Women's Crop Top Sweater",
+    "price": 600,
+    "availability": true,
+    "discountPercentage": 17.2,
+    "stock": 55,
+    "brand": "Top Sweater",
+    "subCategory": ["Tops", "Clothes", "T Shirts", "Winters"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/39/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/39/1.jpg",
+      "https://i.dummyjson.com/data/products/39/2.jpg",
+      "https://i.dummyjson.com/data/products/39/3.jpg",
+      "https://i.dummyjson.com/data/products/39/4.jpg",
+      "https://i.dummyjson.com/data/products/39/thumbnail.jpg"
+    ],
+    "highlights": [
+      "2021 Custom Winter Sweater",
+      "Zebra Knit Crop Top",
+      "Wool Mohair Cos",
+      "Crew Neck Women's Crop Top"
+    ],
+    "details": "Stay warm and stylish in 2021 with this custom winter sweater. The Zebra Knit Crop Top features wool mohair material, perfect for the fall season. Sizes: S, M, XL."
+  },
+  {
+    "id": 40,
+    "title": "Women Winter Clothes",
+    "description": "Women Winter Clothes Thick Fleece Hoodie Top with Sweatpant Jogger Women Sweatsuit Set Joggers Pants Two Piece Pants Set",
+    "price": 57,
+    "availability": true,
+    "discountPercentage": 13.39,
+    "stock": 84,
+    "brand": "Top Sweater",
+    "subCategory": ["Tops", "Clothes", "Womens Dresses", "T Shirts", "Winters"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/40/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/40/1.jpg",
+      "https://i.dummyjson.com/data/products/40/2.jpg"
+    ],
+    "highlights": [
+      "Thick Fleece Hoodie Top",
+      "Sweatpant Jogger",
+      "Women Sweatsuit Set",
+      "Two Piece Pants Set"
+    ],
+    "details": "Prepare for winter with this women's winter clothes set. The thick fleece hoodie top and sweatpant jogger make for a comfortable and stylish sweatsuit. Sizes: S, M, XL."
+  },
+  {
+    "id": 41,
+    "title": "Night Suit",
+    "description": "Night Suit Red Micky Mouse for Girls. Fantastic Suits.",
+    "price": 55,
+    "availability": true,
+    "discountPercentage": 15.05,
+    "stock": 21,
+    "brand": "RED MICKY MOUSE..",
+    "subCategory": ["Womens Dresses", "Clothes", "Winters"],
+    "category": "Winters",
+    "sizes": ["S", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/41/1.jpg",
+      "https://i.dummyjson.com/data/products/41/2.webp",
+      "https://i.dummyjson.com/data/products/41/3.jpg",
+      "https://i.dummyjson.com/data/products/41/4.jpg",
+      "https://i.dummyjson.com/data/products/41/thumbnail.webp"
+    ],
+    "highlights": ["Fantastic Night Suit", "Red Micky Mouse Design"],
+    "details": "Make bedtime fantastic with this Red Micky Mouse Night Suit for girls. Comfortable and stylish, it's perfect for winter nights. Available in sizes S, M, L, XL."
+  },
+  {
+    "id": 42,
+    "title": "Stitched Kurta plus Trouser",
+    "description": "FABRIC: LILEIN CHEST: 21 LENGTH: 37 TROUSER: (38) : ARABIC LILEIN",
+    "price": 80,
+    "availability": true,
+    "discountPercentage": 15.37,
+    "stock": 148,
+    "brand": "Digital Printed",
+    "subCategory": ["Womens Dresses", "Kurta", "Clothes", "Basic"],
+    "sizes": ["S", "M", "L", "XL"],
+    "category": "Kurta",
+    "thumbnail": "https://i.dummyjson.com/data/products/42/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/42/1.png",
+      "https://i.dummyjson.com/data/products/42/2.png",
+      "https://i.dummyjson.com/data/products/42/3.png",
+      "https://i.dummyjson.com/data/products/42/4.jpg",
+      "https://i.dummyjson.com/data/products/42/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Digital Printed Kurta",
+      "Stitched Plus Trouser Set",
+      "Fabric: LILEIN",
+      "Chest: 21, Length: 37"
+    ],
+    "details": "Elevate your wardrobe with this digital printed kurta plus trouser set. Made with LILEIN fabric, it features a chest size of 21 and a length of 37. Available in sizes S, M, L, XL."
+  },
+  {
+    "id": 43,
+    "title": "Frock Gold Printed",
+    "description": "Ghazi Fabric Long Frock Gold Printed Ready to Wear Stitched Collection (G992)",
+    "price": 600,
+    "availability": true,
+    "discountPercentage": 15.55,
+    "stock": 150,
+    "brand": "Ghazi Fabric",
+    "subCategory": ["Womens Dresses", "Kurta", "Clothes", "Wedding"],
+    "category": "Kurta",
+    "sizes": ["L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/43/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/43/1.jpg",
+      "https://i.dummyjson.com/data/products/43/2.jpg",
+      "https://i.dummyjson.com/data/products/43/3.jpg",
+      "https://i.dummyjson.com/data/products/43/4.jpg",
+      "https://i.dummyjson.com/data/products/43/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Long Frock Gold Printed",
+      "Ready to Wear",
+      "Stitched Collection (G992)"
+    ],
+    "details": "Turn heads with this Ghazi Fabric long frock featuring gold print. It's ready to wear and part of the stitched collection (G992). Available in sizes L, XL."
+  },
+  {
+    "id": 44,
+    "title": "Ladies Multicolored Dress",
+    "description": "This classy shirt for women gives you a gorgeous look on everyday wear and especially for semi-casual wears.",
+    "price": 79,
+    "availability": true,
+    "discountPercentage": 16.88,
+    "stock": 2,
+    "brand": "Ghazi Fabric",
+    "subCategory": ["Womens Dresses", "Kurta", "Clothes", "Office Wear"],
+    "category": "Kurta",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/44/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/da1ta/products/44/1.jpg",
+      "https://i.dummyjson.com/data/products/44/2.jpg",
+      "https://i.dummyjson.com/data/products/44/3.jpg",
+      "https://i.dummyjson.com/data/products/44/4.jpg",
+      "https://i.dummyjson.com/data/products/44/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Classy Multicolored Dress",
+      "Gives a Gorgeous Look",
+      "Ideal for Semi-Casual Wears"
+    ],
+    "details": "Elevate your style with this classy multicolored dress. Perfect for everyday wear and ideal for semi-casual occasions. Available in sizes XS, M, L, XL."
+  },
+  {
+    "id": 45,
+    "title": "Malai Maxi Dress",
+    "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting, Imported stuff",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 5.07,
+    "stock": 96,
+    "brand": "IELGY",
+    "subCategory": ["Womens Dresses", "Kurta", "Clothes", "Office Wear"],
+    "category": "Kurta Pajama",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/45/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/45/1.jpg",
+      "https://i.dummyjson.com/data/products/45/2.webp",
+      "https://i.dummyjson.com/data/products/45/3.jpg",
+      "https://i.dummyjson.com/data/products/45/4.jpg",
+      "https://i.dummyjson.com/data/products/45/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Ready to Wear",
+      "Unique Modern Design",
+      "Best Fitting",
+      "Imported Stuff"
+    ],
+    "details": "Elevate your style with the Malai Maxi Dress. This ready-to-wear dress features a unique design according to modern fashion standards, providing the best fitting and using imported high-quality stuff."
+  },
+  {
+    "id": 46,
+    "title": "Women's Shoes",
+    "description": "Closure: Lace, Style with Bottom: Increased Inside, Sole Material: Rubber",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 16.96,
+    "stock": 72,
+    "brand": "IELGY Fashion",
+    "subCategory": ["Womens Shoes", "Clothes", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/46/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/46/1.webp",
+      "https://i.dummyjson.com/data/products/46/2.jpg",
+      "https://i.dummyjson.com/data/products/46/3.jpg",
+      "https://i.dummyjson.com/data/products/46/4.jpg",
+      "https://i.dummyjson.com/data/products/46/thumbnail.jpg"
+    ],
+    "highlights": ["Lace Closure", "Increased Inside for Style", "Rubber Sole"],
+    "details": "Step out in style with these Women's Shoes. Featuring lace closure, increased inside for added style, and a comfortable rubber sole."
+  },
+  {
+    "id": 47,
+    "title": "Sneaker Shoes",
+    "description": "Synthetic Leather Casual Sneaker Shoes for Women/Girls, Sneakers for Women",
+    "price": 120,
+    "availability": true,
+    "discountPercentage": 10.37,
+    "stock": 50,
+    "brand": "Synthetic Leather",
+    "subCategory": ["Sneaker", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/47/thumbnail.jpeg",
+    "images": [
+      "https://i.dummyjson.com/data/products/47/1.jpg",
+      "https://i.dummyjson.com/data/products/47/2.jpg",
+      "https://i.dummyjson.com/data/products/47/3.jpg",
+      "https://i.dummyjson.com/data/products/47/thumbnail.jpeg"
+    ],
+    "highlights": [
+      "Synthetic Leather",
+      "Casual Sneaker",
+      "Ideal for Women/Girls"
+    ],
+    "details": "Stay casual and chic with these Synthetic Leather Sneaker Shoes. Perfect for women and girls, these shoes offer comfort and style for your everyday activities."
+  },
+  {
+    "id": 48,
+    "title": "Women Strip Heel",
+    "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 10.83,
+    "stock": 25,
+    "brand": "Sandals Flip Flops",
+    "subCategory": ["Womens Sandal", "Sandal"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Sandal",
+    "thumbnail": "https://i.dummyjson.com/data/products/48/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/48/1.jpg",
+      "https://i.dummyjson.com/data/products/48/2.jpg",
+      "https://i.dummyjson.com/data/products/48/3.jpg",
+      "https://i.dummyjson.com/data/products/48/4.jpg",
+      "https://i.dummyjson.com/data/products/48/thumbnail.jpg"
+    ],
+    "highlights": ["Flip-flops Style", "Mid Heel", "Comfortable and Antiskid"],
+    "details": "Step out in style with these Women Strip Heel Sandals. Featuring flip-flops style, mid heel, and comfort with antiskid features for a trendy look."
+  },
+  {
+    "id": 49,
+    "title": "Chappals & Shoe Ladies Metallic",
+    "description": "Women's Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
+    "price": 23,
+    "availability": true,
+    "discountPercentage": 2.62,
+    "stock": 107,
+    "brand": "Maasai Sandals",
+    "subCategory": ["Womens Shoes", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Sandals",
+    "thumbnail": "https://i.dummyjson.com/data/products/49/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/49/1.jpg",
+      "https://i.dummyjson.com/data/products/49/2.jpg",
+      "https://i.dummyjson.com/data/products/49/3.webp",
+      "https://i.dummyjson.com/data/products/49/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Metallic Tong Thong Sandal",
+      "Flat Summer 2020",
+      "Maasai Sandals"
+    ],
+    "details": "Step into summer with these Women's Chappals & Shoe Ladies Metallic. Featuring a metallic tong thong sandal design, flat for summer 2020, and Maasai Sandals for a fashionable look."
+  },
+  {
+    "id": 50,
+    "title": "Women Shoes",
+    "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
+    "price": 36,
+    "availability": true,
+    "discountPercentage": 16.87,
+    "stock": 46,
+    "brand": "Arrivals Genuine",
+    "subCategory": ["Womens Shoes", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/50/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/50/1.jpeg",
+      "https://i.dummyjson.com/data/products/50/2.jpg",
+      "https://i.dummyjson.com/data/products/50/3.jpg"
+    ],
+    "highlights": ["New Arrivals", "Genuine Leather", "Fashion Trend Platform"],
+    "details": "Step into the latest fashion trends with the Women Shoes 2020 New Arrivals. Crafted with genuine leather, these shoes feature a trendy platform design for summer."
+  },
+  {
+    "id": 51,
+    "title": "Half Sleeves T-Shirts",
+    "description": "Many stores are creating new designs and trends every month and every year. Daraz.pk has a beautiful range of men fashion brands",
+    "price": 23,
+    "availability": true,
+    "discountPercentage": 12.76,
+    "stock": 132,
+    "brand": "Vintage Apparel",
+    "subCategory": ["Mens Shirts", "Clothes", "Mens Collection", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/51/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/51/1.png",
+      "https://i.dummyjson.com/data/products/51/2.jpg",
+      "https://i.dummyjson.com/data/products/51/3.jpg",
+      "https://i.dummyjson.com/data/products/51/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Half Sleeves",
+      "New Designs Every Month",
+      "Beautiful Range of Men Fashion Brands"
+    ],
+    "details": "Express your style with Half Sleeves T-Shirts. Featuring new designs every month and a beautiful range of men fashion brands, these shirts are perfect for making a statement."
+  },
+  {
+    "id": 52,
+    "title": "FREE FIRE T-Shirt",
+    "description": "Quality and professional print - It doesn't just look high quality, it is high quality.",
+    "price": 10,
+    "availability": true,
+    "discountPercentage": 14.72,
+    "stock": 128,
+    "brand": "FREE FIRE",
+    "subCategory": ["Womens Dresses", "Clothes", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/52/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/52/1.png",
+      "https://i.dummyjson.com/data/products/52/2.png",
+      "https://i.dummyjson.com/data/products/52/3.jpg",
+      "https://i.dummyjson.com/data/products/52/4.jpg",
+      "https://i.dummyjson.com/data/products/52/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Quality Print",
+      "Professional Print",
+      "High-Quality Fabric"
+    ],
+    "details": "Show your love for FREE FIRE with this high-quality T-Shirt. The print is not just high quality, but the fabric is too, making it a must-have for fans."
+  },
+  {
+    "id": 53,
+    "title": "Printed High-Quality T-Shirts",
+    "description": "Brand: Vintage Apparel, Export Quality",
+    "price": 35,
+    "availability": true,
+    "discountPercentage": 7.54,
+    "stock": 6,
+    "brand": "Vintage Apparel",
+    "subCategory": ["Mens Shirts", "Clothes", "Mens Collection", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/53/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/53/1.webp",
+      "https://i.dummyjson.com/data/products/53/2.jpg",
+      "https://i.dummyjson.com/data/products/53/3.jpg",
+      "https://i.dummyjson.com/data/products/53/4.jpg",
+      "https://i.dummyjson.com/data/products/53/thumbnail.jpg"
+    ],
+    "highlights": ["Printed Design", "Export Quality", "Vintage Apparel Brand"],
+    "details": "Embrace style with Printed High-Quality T-Shirts by Vintage Apparel. Featuring unique printed designs and export quality, these shirts are perfect for those who appreciate fashion."
+  },
+  {
+    "id": 54,
+    "title": "PUBG Printed Graphic T-Shirt",
+    "description": "Product Description Features: 100% Ultra-Soft Polyester Jersey. Vibrant & Colorful Printing on Front. Feels Soft as Cotton Without Ever Cracking",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 16.44,
+    "stock": 136,
+    "brand": "The Warehouse",
+    "subCategory": ["Mens Shirts", "Clothes", "Mens Collection", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/54/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/54/1.jpg",
+      "https://i.dummyjson.com/data/products/54/2.jpg",
+      "https://i.dummyjson.com/data/products/54/3.jpg",
+      "https://i.dummyjson.com/data/products/54/4.jpg",
+      "https://i.dummyjson.com/data/products/54/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Ultra-Soft Polyester Jersey",
+      "Vibrant Printing",
+      "Feels Soft as Cotton"
+    ],
+    "details": "Express your gaming style with the PUBG Printed Graphic T-Shirt. Crafted from 100% ultra-soft polyester jersey, it features vibrant printing on the front and feels as soft as cotton without ever cracking."
+  },
+
+  {
+    "id": 55,
+    "title": "Money Heist Printed Summer T Shirts",
+    "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stitched",
+    "price": 66,
+    "availability": true,
+    "discountPercentage": 15.97,
+    "stock": 122,
+    "brand": "The Warehouse",
+    "subCategory": ["Mens Shirts", "Clothes", "Mens Collection", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["XS", "M", "L", "XL"],
+    "thumbnail": "https://i.dummyjson.com/data/products/55/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/55/1.jpg",
+      "https://i.dummyjson.com/data/products/55/2.webp",
+      "https://i.dummyjson.com/data/products/55/3.jpg",
+      "https://i.dummyjson.com/data/products/55/4.jpg",
+      "https://i.dummyjson.com/data/products/55/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Money Heist Printed Design",
+      "Summer T Shirts",
+      "Stylish Dual Stitching",
+      "Fabric: Jercy",
+      "Available Sizes: XS, M, L, XL"
+    ],
+    "details": "Stay cool and stylish this summer with the Money Heist Printed Summer T Shirts. Made with comfortable Jercy fabric, featuring a dual-stitched design. Available in sizes XS, M, L, and XL."
+  },
+  {
+    "id": 56,
+    "title": "Sneakers Joggers Shoes",
+    "description": "Gender: Men, Colors: Same as Displayed Condition: 100% Brand New",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 12.57,
+    "stock": 6,
+    "brand": "Sneakers",
+    "subCategory": ["Mens Shoes", "Mens Collection", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/56/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/56/1.jpg",
+      "https://i.dummyjson.com/data/products/56/2.jpg",
+      "https://i.dummyjson.com/data/products/56/3.jpg",
+      "https://i.dummyjson.com/data/products/56/4.jpg",
+      "https://i.dummyjson.com/data/products/56/5.jpg",
+      "https://i.dummyjson.com/data/products/56/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Sneakers Joggers Shoes",
+      "For Men",
+      "Brand New Condition",
+      "Available Sizes: 6, 7, 8, 9, 10"
+    ],
+    "details": "Step out in style with the Sneakers Joggers Shoes. Specifically designed for men, these shoes offer a brand new and comfortable experience. Available in sizes 6, 7, 8, 9, and 10."
+  },
+
+  {
+    "id": 57,
+    "title": "Loafers for men",
+    "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+    "price": 47,
+    "availability": true,
+    "discountPercentage": 10.91,
+    "stock": 20,
+    "brand": "Rubber",
+    "subCategory": ["Mens Shoes", "Mens Collection", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/57/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/57/1.jpg",
+      "https://i.dummyjson.com/data/products/57/2.jpg",
+      "https://i.dummyjson.com/data/products/57/3.jpg",
+      "https://i.dummyjson.com/data/products/57/4.jpg",
+      "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Loafers for Men",
+      "Rubber Shoes",
+      "Nylon Material",
+      "Export Quality",
+      "Available Sizes: 6, 7, 8, 9, 10"
+    ],
+    "details": "Step out with confidence in these stylish Loafers for Men. Made with pure nylon (rubber) for an export-quality finish. Available in sizes 6, 7, 8, 9, and 10."
+  },
+  {
+    "id": 58,
+    "title": "formal offices shoes",
+    "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe, Outsole Material: Rubber",
+    "price": 57,
+    "availability": true,
+    "discountPercentage": 12,
+    "stock": 68,
+    "brand": "The Warehouse",
+    "subCategory": ["Mens Shoes", "Mens Collection", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/58/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/58/1.jpg",
+      "https://i.dummyjson.com/data/products/58/2.jpg",
+      "https://i.dummyjson.com/data/products/58/3.jpg",
+      "https://i.dummyjson.com/data/products/58/4.jpg",
+      "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Formal Office Shoes",
+      "Solid Pattern",
+      "Material: PU",
+      "Pointed Toe",
+      "Available Sizes: 6, 7, 8, 9, 10"
+    ],
+    "details": "Elevate your office attire with these Formal Office Shoes. Featuring a solid pattern, PU material, and a pointed toe for a sophisticated look. Available in sizes 6, 7, 8, 9, and 10."
+  },
+  {
+    "id": 59,
+    "title": "Spring and summer shoes",
+    "description": "Comfortable stretch cloth, lightweight body; rubber sole, anti-skid wear;",
+    "price": 20,
+    "availability": true,
+    "discountPercentage": 8.71,
+    "stock": 137,
+    "brand": "Sneakers",
+    "subCategory": ["Mens Shoes", "Mens Collection", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/59/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/59/1.jpg",
+      "https://i.dummyjson.com/data/products/59/2.jpg",
+      "https://i.dummyjson.com/data/products/59/3.jpg",
+      "https://i.dummyjson.com/data/products/59/4.jpg",
+      "https://i.dummyjson.com/data/products/59/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Spring and Summer Shoes",
+      "Comfortable Stretch Cloth",
+      "Lightweight Body",
+      "Rubber Sole",
+      "Available Sizes: 6, 7, 8, 9, 10"
+    ],
+    "details": "Embrace the season with these Spring and Summer Shoes. Crafted with comfortable stretch cloth, a lightweight body, and a rubber sole for anti-skid wear. Available in sizes 6, 7, 8, 9, and 10."
+  },
+  {
+    "id": 60,
+    "title": "Stylish Casual Jeans Shoes",
+    "description": "High Quality, Stylish design, Comfortable wear, Fashion, Durable",
+    "price": 58,
+    "availability": true,
+    "discountPercentage": 7.55,
+    "stock": 129,
+    "brand": "Sneakers",
+    "subCategory": ["Mens Shoes", "Mens Collection", "Shoes"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "category": "Shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/60/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/60/1.jpg",
+      "https://i.dummyjson.com/data/products/60/2.jpg",
+      "https://i.dummyjson.com/data/products/60/3.jpg",
+      "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+    ],
+    "highlights": [
+      "High Quality",
+      "Stylish Design",
+      "Comfortable Wear",
+      "Fashionable",
+      "Durable"
+    ],
+    "details": "Step out in style with these Stylish Casual Jeans Shoes. Featuring high-quality construction, a stylish design, and comfortable wear, these shoes are both fashionable and durable."
+  },
+  {
+    "id": 61,
+    "title": "Leather Straps Wristwatch",
+    "description": "Style: Sport, Clasp: Buckles, Water Resistance Depth: 3Bar",
+    "price": 120,
+    "availability": true,
+    "discountPercentage": 7.14,
+    "stock": 91,
+    "brand": "Naviforce",
+    "subCategory": ["Mens Watches", "Mens Collection", "Watches"],
+    "category": "Watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/61/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/61/1.jpg",
+      "https://i.dummyjson.com/data/products/61/2.png",
+      "https://i.dummyjson.com/data/products/61/3.jpg"
+    ],
+    "highlights": [
+      "Sporty Style",
+      "Buckle Clasp",
+      "Water Resistance up to 3Bar"
+    ],
+    "details": "Enhance your wrist with the Leather Straps Wristwatch by Naviforce. This sporty timepiece features a buckle clasp and water resistance up to 3Bar for durability and style."
+  },
+  {
+    "id": 62,
+    "title": "Waterproof Leather Brand Watch",
+    "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 3.15,
+    "stock": 95,
+    "brand": "SKMEI 9117",
+    "subCategory": ["Mens Watches", "Mens Collection", "Watches"],
+    "thumbnail": "https://i.dummyjson.com/data/products/62/thumbnail.jpg",
+    "category": "Watches",
+    "images": [
+      "https://i.dummyjson.com/data/products/62/1.jpg",
+      "https://i.dummyjson.com/data/products/62/2.jpg"
+    ],
+    "highlights": [
+      "Waterproof Design",
+      "IPS Bronze Electroplating",
+      "12-Hour Display System"
+    ],
+    "details": "Stay on time and in style with the Waterproof Leather Brand Watch from SKMEI 9117. Featuring a waterproof design, IPS bronze electroplating, and a 12-hour display system, this watch is both functional and fashionable."
+  },
+  {
+    "id": 63,
+    "title": "Royal Blue Premium Watch",
+    "description": "Men Silver Chain Royal Blue Premium Watch Latest Analog Watch",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 2.56,
+    "stock": 142,
+    "brand": "SKMEI 9117",
+    "subCategory": ["Mens Watches", "Mens Collection", "Watches"],
+    "thumbnail": "https://i.dummyjson.com/data/products/63/thumbnail.webp",
+    "category": "Watches",
+    "images": [
+      "https://i.dummyjson.com/data/products/63/1.jpg",
+      "https://i.dummyjson.com/data/products/63/2.jpg",
+      "https://i.dummyjson.com/data/products/63/3.png",
+      "https://i.dummyjson.com/data/products/63/4.jpeg"
+    ],
+    "highlights": ["Royal Blue Premium Watch", "Silver Chain", "Analog Design"],
+    "details": "Upgrade your style with the Royal Blue Premium Watch by SKMEI 9117. This analog watch features a royal blue design, silver chain, and the latest in watch fashion."
+  },
+  {
+    "id": 64,
+    "title": "Leather Strap Skeleton Watch",
+    "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 10.2,
+    "stock": 61,
+    "brand": "Strap Skeleton",
+    "subCategory": ["Mens Watches", "Watches"],
+    "thumbnail": "https://i.dummyjson.com/data/products/64/thumbnail.jpg",
+    "category": "Watches",
+    "images": [
+      "https://i.dummyjson.com/data/products/64/1.jpg",
+      "https://i.dummyjson.com/data/products/64/2.webp",
+      "https://i.dummyjson.com/data/products/64/3.jpg",
+      "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Stylish Skeleton Design",
+      "Latest Fashion",
+      "Leather Strap"
+    ],
+    "details": "Make a statement with the Leather Strap Skeleton Watch. This stylish timepiece for men features a skeleton design, the latest in fashion, and a comfortable leather strap."
+  },
+  {
+    "id": 65,
+    "title": "Stainless Steel Wrist Watch",
+    "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed",
+    "price": 47,
+    "availability": true,
+    "discountPercentage": 17.79,
+    "stock": 94,
+    "brand": "Stainless",
+    "subCategory": ["Mens Watches", "Mens Collection", "Watches"],
+    "thumbnail": "https://i.dummyjson.com/data/products/65/thumbnail.webp",
+    "category": "Watches",
+    "images": [
+      "https://i.dummyjson.com/data/products/65/1.jpg",
+      "https://i.dummyjson.com/data/products/65/2.webp",
+      "https://i.dummyjson.com/data/products/65/3.jpg",
+      "https://i.dummyjson.com/data/products/65/4.webp",
+      "https://i.dummyjson.com/data/products/65/thumbnail.webp"
+    ],
+    "highlights": [
+      "Stainless Steel Construction",
+      "Luxurious Design",
+      "Classy Men's Watch"
+    ],
+    "details": "Elevate your style with the Stainless Steel Wrist Watch. This classy men's watch features a stainless steel construction, luxurious design, and comes in a stylish box for a complete package."
+  },
+  {
+    "id": 66,
+    "title": "Steel Analog Couple Watches",
+    "description": "Elegant design, Stylish, Unique & Trendy, Comfortable wear",
+    "price": 35,
+    "availability": true,
+    "discountPercentage": 3.23,
+    "stock": 24,
+    "brand": "Eastern Watches",
+    "subCategory": ["Mens Watches", "Mens Collection", "Watches"],
+    "thumbnail": "https://i.dummyjson.com/data/products/66/thumbnail.jpg",
+    "category": "Watches",
+    "images": [
+      "https://i.dummyjson.com/data/products/66/1.jpg",
+      "https://i.dummyjson.com/data/products/66/2.jpg",
+      "https://i.dummyjson.com/data/products/66/3.jpg",
+      "https://i.dummyjson.com/data/products/66/4.JPG",
+      "https://i.dummyjson.com/data/products/66/thumbnail.jpg"
+    ],
+    "highlights": ["Elegant Design", "Stylish Look", "Unique & Trendy"],
+    "details": "Make a fashion statement with the Steel Analog Couple Watches by Eastern Watches. These watches feature an elegant design, stylish look, and are both unique and trendy for comfortable wear."
+  },
+  {
+    "id": 67,
+    "title": "Fashion Magnetic Wrist Watch",
+    "description": "Buy this awesome The product is originally manufactured by the company and it's a top-selling product with a very reasonable",
+    "price": 60,
+    "availability": true,
+    "discountPercentage": 16.69,
+    "stock": 46,
+    "brand": "Eastern Watches",
+    "subCategory": ["Womens Watches", "Watches"],
+    "category": "Watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/67/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/67/1.jpg",
+      "https://i.dummyjson.com/data/products/67/2.jpg",
+      "https://i.dummyjson.com/data/products/67/3.jpg",
+      "https://i.dummyjson.com/data/products/67/4.jpg",
+      "https://i.dummyjson.com/data/products/67/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Fashion Magnetic Wrist Watch",
+      "Original Manufacturer",
+      "Top-Selling Product",
+      "Reasonable Price"
+    ],
+    "details": "Upgrade your wristwear with the Fashion Magnetic Wrist Watch by Eastern Watches. This awesome watch is originally manufactured by the company, making it a top-selling product with a very reasonable price."
+  },
+  {
+    "id": 68,
+    "title": "Stylish Luxury Digital Watch",
+    "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls",
+    "price": 57,
+    "availability": true,
+    "discountPercentage": 9.03,
+    "stock": 77,
+    "brand": "Luxury Digital",
+    "subCategory": ["Womens Watches", "Watches"],
+    "category": "Watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/68/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/68/1.jpg",
+      "https://i.dummyjson.com/data/products/68/2.jpg"
+    ],
+    "highlights": [
+      "Stylish Luxury Digital Watch",
+      "LED Smart Ladies Watches",
+      "For Girls / Women"
+    ],
+    "details": "Elevate your style with the Stylish Luxury Digital Watch. This LED smart ladies watch is designed for girls and women, providing a perfect blend of style and functionality."
+  },
+  {
+    "id": 69,
+    "title": "Golden Watch Pearls Bracelet Watch",
+    "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelet Watch for Women",
+    "price": 47,
+    "availability": true,
+    "discountPercentage": 17.55,
+    "stock": 89,
+    "brand": "Watch Pearls",
+    "subCategory": ["Womens Watches", "Watches"],
+    "category": "Watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/69/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/69/1.jpg",
+      "https://i.dummyjson.com/data/products/69/2.jpg",
+      "https://i.dummyjson.com/data/products/69/3.webp",
+      "https://i.dummyjson.com/data/products/69/4.jpg",
+      "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Golden Watch Pearls Bracelet Watch",
+      "Golden Chain Ladies Bracelet",
+      "For Girls / Women"
+    ],
+    "details": "Add a touch of elegance with the Golden Watch Pearls Bracelet Watch. This exquisite watch is designed for girls and women, featuring a golden chain ladies bracelet for a stylish and sophisticated look."
+  },
+  {
+    "id": 70,
+    "title": "Stainless Steel Women",
+    "description": "Fashion Skmei 1830 Shell Dial Stainless Steel Women Wrist Watch Lady Bracelet Watch Quartz Watches Ladies",
+    "price": 35,
+    "availability": true,
+    "discountPercentage": 8.98,
+    "stock": 111,
+    "brand": "Bracelet",
+    "subCategory": ["Women's Watches", "Watches"],
+    "category": "Watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/70/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/70/1.jpg",
+      "https://i.dummyjson.com/data/products/70/2.jpg",
+      "https://i.dummyjson.com/data/products/70/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Fashionable Stainless Steel Women's Watch",
+      "Shell Dial Design",
+      "Quartz Movement",
+      "Bracelet Style"
+    ],
+    "details": "Elevate your style with the Fashionable Stainless Steel Women's Watch. Featuring a shell dial, quartz movement, and a bracelet-style band, this watch adds a touch of elegance to your wrist."
+  },
+  {
+    "id": 71,
+    "title": "Women Shoulder Bags",
+    "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 14.65,
+    "stock": 17,
+    "brand": "LouisWill",
+    "subCategory": ["Women's Bags", "Bags"],
+    "category": "Bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/71/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/71/1.jpg",
+      "https://i.dummyjson.com/data/products/71/2.jpg",
+      "https://i.dummyjson.com/data/products/71/3.webp",
+      "https://i.dummyjson.com/data/products/71/thumbnail.jpg"
+    ],
+    "highlights": [
+      "LouisWill Women Shoulder Bags",
+      "PU Leather Hand Bags",
+      "Large Capacity with Card Holders",
+      "Fashionable Crossbody Bags"
+    ],
+    "details": "Carry your essentials in style with the LouisWill Women Shoulder Bags. These fashionable bags feature long clutches, crossbody style, and large capacity with card holders for added convenience."
+  },
+  {
+    "id": 72,
+    "title": "Handbag For Girls",
+    "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+    "price": 23,
+    "availability": true,
+    "discountPercentage": 17.5,
+    "stock": 27,
+    "brand": "LouisWill",
+    "subCategory": ["Women's Bags", "Bags"],
+    "category": "Bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/72/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/72/1.jpg",
+      "https://i.dummyjson.com/data/products/72/2.png",
+      "https://i.dummyjson.com/data/products/72/3.webp",
+      "https://i.dummyjson.com/data/products/72/4.jpg",
+      "https://i.dummyjson.com/data/products/72/thumbnail.webp"
+    ],
+    "highlights": [
+      "Charming Fashion Handbag for Girls",
+      "Made of Synthetic Leather",
+      "Adds a Charismatic Effect to Casual Outfits"
+    ],
+    "details": "Accentuate your casual outfit with the Charming Fashion Handbag for Girls. Crafted from synthetic leather, this bag is designed to add a charismatic effect to your everyday style."
+  },
+  {
+    "id": 73,
+    "title": "Fancy Hand Clutch",
+    "description": "This fashion is designed to add a charming effect to your casual outfit. This Bag is made of synthetic leather.",
+    "price": 44,
+    "availability": true,
+    "discountPercentage": 10.39,
+    "stock": 101,
+    "brand": "Bracelet",
+    "subCategory": ["Women's Bags", "Bags"],
+    "category": "Bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/73/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/73/1.jpg",
+      "https://i.dummyjson.com/data/products/73/2.webp",
+      "https://i.dummyjson.com/data/products/73/3.jpg",
+      "https://i.dummyjson.com/data/products/73/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Fashionable Fancy Hand Clutch",
+      "Made of Synthetic Leather",
+      "Ideal for Adding Charm to Casual Outfits"
+    ],
+    "details": "Make a statement with the Fashionable Fancy Hand Clutch. Crafted from synthetic leather, this clutch is designed to add a charming effect to your casual outfits."
+  },
+  {
+    "id": 74,
+    "title": "Leather Hand Bag",
+    "description": "It features an attractive design that makes it a must-have accessory in your collection. We sell different kinds of bags for boys, kids, women, girls, and also for unisex.",
+    "price": 57,
+    "availability": true,
+    "discountPercentage": 11.19,
+    "stock": 43,
+    "brand": "Copenhagen Luxe",
+    "subCategory": ["Women's Bags", "Bags"],
+    "category": "Bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/74/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/74/1.jpg",
+      "https://i.dummyjson.com/data/products/74/2.jpg",
+      "https://i.dummyjson.com/data/products/74/3.jpg",
+      "https://i.dummyjson.com/data/products/74/4.jpg",
+      "https://i.dummyjson.com/data/products/74/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Attractive Design Leather Hand Bag",
+      "Must-Have Accessory",
+      "Suitable for Boys, Kids, Women, Girls, and Unisex"
+    ],
+    "details": "Enhance your collection with the Attractive Design Leather Hand Bag. A must-have accessory featuring an attractive design, suitable for various age groups and genders."
+  },
+  {
+    "id": 75,
+    "title": "Seven Pocket Women Bag",
+    "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag",
+    "price": 68,
+    "availability": true,
+    "discountPercentage": 14.87,
+    "stock": 13,
+    "brand": "Steal Frame",
+    "subCategory": ["Women's Bags", "Bags"],
+    "category": "Bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/75/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/75/1.jpg",
+      "https://i.dummyjson.com/data/products/75/2.jpg",
+      "https://i.dummyjson.com/data/products/75/3.jpg",
+      "https://i.dummyjson.com/data/products/75/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Seven Pocket Women Bag",
+      "Handbags with Shoulder and Crossbody Options",
+      "Ideal for Female Purse"
+    ],
+    "details": "Stay organized with the Seven Pocket Women Bag. Versatile handbags offering multiple pockets, shoulder, and crossbody options, making it an ideal choice for every fashion-forward woman."
+  },
+  {
+    "id": 76,
+    "title": "Silver Ring Set Women",
+    "description": "Jewelry Type:RingsCertificate Type:NonePlating:Silver PlatedShapeattern:noneStyle:CLASSICReligious",
+    "price": 70,
+    "availability": true,
+    "discountPercentage": 13.57,
+    "stock": 51,
+    "brand": "Darojay",
+    "subCategory": ["Women's Jewellery", "Ring", "Jewellery"],
+    "category": "Jewellery",
+    "thumbnail": "https://i.dummyjson.com/data/products/76/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/76/1.jpg",
+      "https://i.dummyjson.com/data/products/76/2.jpg",
+      "https://i.dummyjson.com/data/products/76/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Silver Ring Set for Women",
+      "Classic Style with Religious Element",
+      "Silver Plated"
+    ],
+    "details": "Adorn yourself with the Silver Ring Set for Women. This classic-style ring set features a religious element, beautifully crafted and silver-plated for an elegant look."
+  },
+  {
+    "id": 77,
+    "title": "Rose Ring",
+    "description": "Brand: The Greetings Flower Colour: RedRing Colour: GoldenSize: Adjustable",
+    "price": 100,
+    "availability": true,
+    "discountPercentage": 3.22,
+    "stock": 149,
+    "brand": "Copenhagen Luxe",
+    "subCategory": ["Women's Jewellery", "Ring", "Jewellery"],
+    "category": "Jewellery",
+    "thumbnail": "https://i.dummyjson.com/data/products/77/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/77/1.jpg",
+      "https://i.dummyjson.com/data/products/77/2.jpg",
+      "https://i.dummyjson.com/data/products/77/3.jpg",
+      "https://i.dummyjson.com/data/products/77/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Rose Ring",
+      "Golden Ring with Red Flower Detail",
+      "Adjustable Size"
+    ],
+    "details": "Express your unique style with the Rose Ring. Featuring a golden ring with a red flower detail, this adjustable ring adds a touch of nature-inspired elegance to your jewelry collection."
+  },
+  {
+    "id": 78,
+    "title": "Rhinestone Korean Style Open Rings",
+    "description": "Fashion Jewellery 3Pcs Adjustable Pearl Rhinestone Korean Style Open Rings For Women",
+    "price": 30,
+    "availability": true,
+    "discountPercentage": 8.02,
+    "stock": 9,
+    "brand": "Fashion Jewellery",
+    "subCategory": ["Women's Jewellery", "Ring", "Jewellery"],
+    "category": "Jewellery",
+    "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/ring/n/e/s/adjustable-1-r-axpjlwrg2104218-1-ring-jewel-panda-original-imagwyatgghy7c9j.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/kvgzyq80/ring/p/6/n/adjustable-1-gl-r-axpjlwrg2104218-1-ring-bling-queen-original-imag8cyd2pwj77q2.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/kvgzyq80/ring/w/y/f/adjustable-1-gl-r-axpjlwrg2104218-1-ring-bling-queen-original-imag8cyd3kgz6cjy.jpeg?q=70"
+    ],
+    "highlights": [
+      "Rhinestone Korean Style Open Rings",
+      "Fashionable Jewellery",
+      "3Pcs Adjustable Pearl Rings"
+    ],
+    "details": "Make a statement with the Rhinestone Korean Style Open Rings. This fashionable set of rings features pearl and rhinestone details, adding a touch of elegance to your look."
+  },
+  {
+    "id": 79,
+    "title": "Elegant Female Pearl Earrings",
+    "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set",
+    "price": 30,
+    "availability": true,
+    "discountPercentage": 12.8,
+    "stock": 16,
+    "brand": "Fashion Jewellery",
+    "subCategory": ["Women's Jewellery", "Earrings", "Jewellery"],
+    "category": "Jewellery",
+    "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/79/1.jpg",
+      "https://rukminim2.flixcart.com/image/832/832/l071d3k0/earring/l/f/1/na-nl191-nilu-s-collection-original-imagcf7at2z2hdpj.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/earring/4/p/y/na-nl191-nilu-s-collection-original-imagh33c4pgjnyd5.jpeg?q=70"
+    ],
+    "highlights": [
+      "Elegant Female Pearl Earrings",
+      "Set of 9 Pairs with Zircon Details",
+      "Perfect for Women's Party Accessories"
+    ],
+    "details": "Enhance your party look with the Elegant Female Pearl Earrings. This set includes 9 pairs of earrings with zircon and pearl details, adding a touch of sophistication to your accessories collection."
+  },
+  {
+    "id": 80,
+    "title": "Chain Pin Tassel Earrings",
+    "description": "Pair Of Ear Cuff Butterfly Long Chain Pin Tassel Earrings - Silver ( Long Life Quality Product)",
+    "price": 45,
+    "availability": true,
+    "discountPercentage": 17.75,
+    "stock": 9,
+    "brand": "Cuff Butterfly",
+    "subCategory": ["Womens Jewellery", "Ear-ring", "Jewellery"],
+    "category": "Jewellery",
+    "thumbnail": "https://i.dummyjson.com/data/products/80/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/80/1.jpg",
+      "https://i.dummyjson.com/data/products/80/2.jpg",
+      "https://i.dummyjson.com/data/products/80/3.png",
+      "https://i.dummyjson.com/data/products/80/4.jpg",
+      "https://i.dummyjson.com/data/products/80/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Ear Cuff Butterfly Design",
+      "Long Chain Pin Tassel Earrings",
+      "Silver Material",
+      "Long Life Quality Product"
+    ],
+    "details": "Add a touch of elegance to your look with the Chain Pin Tassel Earrings. Featuring an ear cuff butterfly design and silver material, these earrings are a long-life quality product that complements various styles."
+  },
+  {
+    "id": 81,
+    "title": "Round Silver Frame Sun Glasses",
+    "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+    "price": 19,
+    "availability": true,
+    "discountPercentage": 10.1,
+    "stock": 78,
+    "brand": "Designer Sun Glasses",
+    "subCategory": ["Sunglasses", "Uni Sex"],
+    "thumbnail": "https://i.dummyjson.com/data/products/81/thumbnail.jpg",
+    "category": "Sunglasses",
+    "images": [
+      "https://i.dummyjson.com/data/products/81/1.jpg",
+      "https://i.dummyjson.com/data/products/81/2.jpg",
+      "https://i.dummyjson.com/data/products/81/3.jpg",
+      "https://i.dummyjson.com/data/products/81/4.webp",
+      "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Round Silver Frame",
+      "Protective Eyewear",
+      "Ideal for Various Occasions"
+    ],
+    "details": "Shield your eyes with style using the Round Silver Frame Sun Glasses. Perfect for car driving, vacation travel, outdoor activities, and social gatherings, these sunglasses offer both protection and fashion."
+  },
+  {
+    "id": 82,
+    "title": "Kabir Singh Square Sunglass",
+    "description": "Original Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 15.6,
+    "stock": 78,
+    "brand": "Designer Sun Glasses",
+    "subCategory": ["Sunglasses", "Mens Sunglasses"],
+    "category": "Sunglasses",
+    "thumbnail": "https://i.dummyjson.com/data/products/82/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/82/1.jpg",
+      "https://i.dummyjson.com/data/products/82/2.webp",
+      "https://i.dummyjson.com/data/products/82/3.jpg",
+      "https://i.dummyjson.com/data/products/82/4.jpg",
+      "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
+    ],
+    "highlights": ["Kabir Singh Design", "Metal Frame", "Square Sunglasses"],
+    "details": "Embrace the Kabir Singh style with the Kabir Singh Square Sunglass. The original metal design, brand logo, and square shape make these sunglasses a fashionable choice for men."
+  },
+  {
+    "id": 83,
+    "title": "Wiley X Night Vision Yellow Glasses",
+    "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
+    "price": 30,
+    "availability": true,
+    "discountPercentage": 6.33,
+    "stock": 115,
+    "brand": "Mastar Watch",
+    "subCategory": ["Sunglasses", "Uni Sex"],
+    "category": "Sunglasses",
+    "thumbnail": "https://i.dummyjson.com/data/products/83/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/83/1.jpg",
+      "https://i.dummyjson.com/data/products/83/2.jpg",
+      "https://i.dummyjson.com/data/products/83/3.jpg",
+      "https://i.dummyjson.com/data/products/83/4.jpg",
+      "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Wiley X Night Vision Glasses",
+      "Anti-Fog Driving Glasses",
+      "Free Night Glass Cover"
+    ],
+    "details": "Experience night rides with clarity using the Wiley X Night Vision Yellow Glasses. Designed for riders, these glasses feature anti-fog technology, a free night glass cover, and protection against dust and viruses."
+  },
+  {
+    "id": 84,
+    "title": "Square Sunglasses",
+    "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+    "price": 28,
+    "availability": true,
+    "discountPercentage": 13.89,
+    "stock": 64,
+    "brand": "Mastar Watch",
+    "subCategory": ["Sunglasses", "Uni Sex"],
+    "category": "Sunglasses",
+    "thumbnail": "https://i.dummyjson.com/data/products/84/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/84/1.jpg",
+      "https://i.dummyjson.com/data/products/84/2.jpg",
+      "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Oversized Square Sunglasses",
+      "Retro Gradient Design",
+      "Big Frame Sunglasses"
+    ],
+    "details": "Make a fashion statement with the Square Sunglasses. Featuring an oversized square shape, retro gradient design, and big frame, these sunglasses add a touch of glamour to your look."
+  },
+  {
+    "id": 85,
+    "title": "LouisWill Men Sunglasses",
+    "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
+    "price": 50,
+    "availability": true,
+    "discountPercentage": 11.27,
+    "stock": 92,
+    "brand": "LouisWill",
+    "subCategory": ["Sunglasses", "Uni Sex"],
+    "category": "Sunglasses",
+    "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/85/1.jpg",
+      "https://i.dummyjson.com/data/products/85/2.jpg",
+      "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
+    ],
+    "highlights": [
+      "LouisWill Men Sunglasses",
+      "Polarized UV400 Eyewear",
+      "Dual-Use Day/Night Glasses"
+    ],
+    "details": "Drive safely with LouisWill Men Sunglasses. These polarized sunglasses provide UV400 protection, day-night dual-use functionality, and come with a free box for drivers."
+  },
+  {
+    "id": 86,
+    "title": "Bluetooth Aux",
+    "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+    "price": 25,
+    "availability": true,
+    "discountPercentage": 10.56,
+    "stock": 22,
+    "brand": "Car Aux",
+    "subCategory": ["Automotive", "Hardware"],
+    "thumbnail": "https://i.dummyjson.com/data/products/86/thumbnail.jpg",
+    "category": "Automotive",
+    "images": [
+      "https://i.dummyjson.com/data/products/86/1.jpg",
+      "https://i.dummyjson.com/data/products/86/2.webp",
+      "https://i.dummyjson.com/data/products/86/3.jpg",
+      "https://i.dummyjson.com/data/products/86/4.jpg",
+      "https://i.dummyjson.com/data/products/86/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Bluetooth Car Aux",
+      "Transmitter and Receiver",
+      "Handsfree Music Streaming"
+    ],
+    "details": "Upgrade your car audio with the Bluetooth Aux. This device serves as a transmitter and receiver, allowing handsfree music streaming. The universal 3.5mm adapter is compatible with phones and MP3 players."
+  },
+  {
+    "id": 87,
+    "title": "Temperature Controller Incubator Controller",
+    "description": "Both Heat and Cool Purpose, Temperature control range; -50 to +110, Temperature measurement accuracy; 0.1, Control accuracy; 0.1",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 11.3,
+    "stock": 37,
+    "brand": "W1209 DC12V",
+    "subCategory": ["Automotive", "Hardware"],
+    "thumbnail": "https://i.dummyjson.com/data/products/87/thumbnail.jpg",
+    "category": "Automotive",
+    "images": [
+      "https://i.dummyjson.com/data/products/87/1.jpg",
+      "https://i.dummyjson.com/data/products/87/2.jpg",
+      "https://i.dummyjson.com/data/products/87/3.jpg",
+      "https://i.dummyjson.com/data/products/87/4.jpg",
+      "https://i.dummyjson.com/data/products/87/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Temperature Controller",
+      "Incubator Control",
+      "Heat and Cool Functions"
+    ],
+    "details": "Achieve precise temperature control with the Temperature Controller Incubator Controller. With a control range of -50 to +110, this device is suitable for both heat and cool purposes, ensuring accuracy in temperature management."
+  },
+  {
+    "id": 88,
+    "title": "TC Reusable Silicone Magic Washing Gloves",
+    "description": "TC Reusable Silicone Magic Washing Gloves with Scrubber, Cleaning Brush Scrubber Gloves Heat Resistant Pair for Cleaning of Kitchen, Dishes, Vegetables and Fruits, Bathroom, Car Wash, Pet Care and Multipurpose",
+    "price": 29,
+    "availability": true,
+    "discountPercentage": 3.19,
+    "stock": 42,
+    "brand": "TC Reusable",
+    "subCategory": ["Automotive", "Hardware", "Gloves"],
+    "category": "Automotive",
+    "thumbnail": "https://i.dummyjson.com/data/products/88/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/88/1.jpg",
+      "https://i.dummyjson.com/data/products/88/2.jpg",
+      "https://i.dummyjson.com/data/products/88/3.jpg",
+      "https://i.dummyjson.com/data/products/88/4.webp",
+      "https://i.dummyjson.com/data/products/88/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Reusable Silicone Washing Gloves",
+      "Heat Resistant with Scrubber",
+      "Multipurpose Cleaning"
+    ],
+    "details": "Make cleaning a breeze with TC Reusable Silicone Magic Washing Gloves. These heat-resistant gloves feature built-in scrubbers, perfect for cleaning kitchens, dishes, vegetables, fruits, bathrooms, cars, and more."
+  },
+  {
+    "id": 89,
+    "title": "Qualcomm Original Car Charger",
+    "description": "Best Quality Charger, Highly Recommended to All. Best Quality Charger, Highly Recommended to All.",
+    "price": 40,
+    "availability": true,
+    "discountPercentage": 17.53,
+    "stock": 79,
+    "brand": "TC Reusable",
+    "subCategory": ["Automotive", "Hardware"],
+    "category": "Automotive",
+    "thumbnail": "https://i.dummyjson.com/data/products/89/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/89/1.jpg",
+      "https://i.dummyjson.com/data/products/89/2.jpg",
+      "https://i.dummyjson.com/data/products/89/3.jpg",
+      "https://i.dummyjson.com/data/products/89/4.jpg",
+      "https://i.dummyjson.com/data/products/89/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Qualcomm Original Car Charger",
+      "Best Quality",
+      "Highly Recommended"
+    ],
+    "details": "Charge your devices with the best-quality Qualcomm Original Car Charger. Highly recommended for its reliability and performance, this charger ensures a swift and efficient charging experience."
+  },
+  {
+    "id": 90,
+    "title": "Cycle Bike Glow",
+    "description": "Universal fitment and easy to install, no special wires; can be easily installed and removed. Fits most standard tire air stem valves of road, mountain bicycles, motorcycles, and cars. Bright LED will turn on when in motion.",
+    "price": 35,
+    "availability": true,
+    "discountPercentage": 11.08,
+    "stock": 63,
+    "brand": "Neon LED Light",
+    "subCategory": ["Automotive", "Hardware"],
+    "category": "Automotive",
+    "thumbnail": "https://i.dummyjson.com/data/products/90/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/90/1.jpg",
+      "https://i.dummyjson.com/data/products/90/2.jpg",
+      "https://i.dummyjson.com/data/products/90/3.jpg",
+      "https://i.dummyjson.com/data/products/90/4.jpg",
+      "https://i.dummyjson.com/data/products/90/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Universal Fitment",
+      "Easy Installation",
+      "Bright LED Motion Activation"
+    ],
+    "details": "Enhance your bike's visibility with the Cycle Bike Glow. This easy-to-install LED light fits most standard tire air stem valves and turns on when in motion, providing added safety and a stylish look to your ride."
+  },
+
+  {
+    "id": 92,
+    "title": "HOT SALE IN EUROPE Electric Racing Motorcycle",
+    "description": "HOT SALE IN EUROPE electric racing motorcycle electric motorcycle for sale adult electric motorcycles",
+    "price": 920,
+    "availability": true,
+    "discountPercentage": 14.4,
+    "stock": 22,
+    "brand": "BRAVE BULL",
+    "subCategory": ["Motorcycle"],
+    "category": "Motorcycle",
+    "thumbnail": "https://i.dummyjson.com/data/products/92/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/92/1.jpg",
+      "https://i.dummyjson.com/data/products/92/2.jpg",
+      "https://i.dummyjson.com/data/products/92/3.jpg",
+      "https://i.dummyjson.com/data/products/92/4.jpg"
+    ],
+    "highlights": [
+      "Hot Sale in Europe",
+      "Electric Racing Motorcycle",
+      "Ideal for Adults"
+    ],
+    "details": "Experience the thrill of electric racing with the HOT SALE IN EUROPE Electric Racing Motorcycle by BRAVE BULL. This high-performance electric motorcycle is designed for enthusiasts and is currently a hot favorite in Europe."
+  },
+
+  {
+    "id": 93,
+    "title": "Automatic Motor Gas Motorcycles",
+    "description": "150cc 4-Stroke Motorcycle Automatic Motor Gas Motorcycles Scooter motorcycles 150cc scooter",
+    "price": 1050,
+    "availability": true,
+    "discountPercentage": 3.34,
+    "stock": 127,
+    "brand": "Shock Absorber",
+    "subCategory": ["Motorcycle"],
+    "category": "Motorcycle",
+    "thumbnail": "https://i.dummyjson.com/data/products/93/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/93/1.jpg",
+      "https://i.dummyjson.com/data/products/93/2.jpg",
+      "https://i.dummyjson.com/data/products/93/3.jpg",
+      "https://i.dummyjson.com/data/products/93/4.jpg",
+      "https://i.dummyjson.com/data/products/93/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Automatic 150cc Motorcycle",
+      "4-Stroke Engine",
+      "Gas Motorcycles Scooter"
+    ],
+    "details": "Ride in style and convenience with the Automatic Motor Gas Motorcycles. Featuring a powerful 150cc 4-stroke engine, this scooter is an ideal choice for those seeking a smooth and automatic riding experience."
+  },
+
+  {
+    "id": 94,
+    "title": "New Arrivals Fashion Motocross Goggles",
+    "description": "New Arrivals Fashion motocross goggles motorcycle motocross racing motorcycle",
+    "price": 900,
+    "availability": true,
+    "discountPercentage": 3.85,
+    "stock": 109,
+    "brand": "JIEPOLLY",
+    "subCategory": ["Motorcycle"],
+    "category": "Motorcycle",
+    "thumbnail": "https://i.dummyjson.com/data/products/94/thumbnail.webp",
+    "images": [
+      "https://i.dummyjson.com/data/products/94/1.webp",
+      "https://i.dummyjson.com/data/products/94/2.jpg",
+      "https://i.dummyjson.com/data/products/94/3.jpg",
+      "https://i.dummyjson.com/data/products/94/thumbnail.webp"
+    ],
+    "highlights": [
+      "New Arrivals Fashion",
+      "Motocross Goggles",
+      "Ideal for Racing Motorcycles"
+    ],
+    "details": "Gear up for your ride with the latest in fashion and safety. The New Arrivals Fashion Motocross Goggles by JIEPOLLY provide both style and protection, making them the perfect choice for motocross and racing enthusiasts."
+  },
+
+  {
+    "id": 95,
+    "title": "Wholesale Cargo Lashing Belt",
+    "description": "Wholesale cargo lashing Belt Tie Down end Ratchet strap customized strap 25mm motorcycle 1500kgs with rubber handle",
+    "price": 930,
+    "availability": true,
+    "discountPercentage": 17.67,
+    "stock": 144,
+    "brand": "Xiangle",
+    "subCategory": ["Motorcycle", "Hardware"],
+    "category": "Motorcycle",
+    "thumbnail": "https://i.dummyjson.com/data/products/95/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/95/1.jpg",
+      "https://i.dummyjson.com/data/products/95/2.jpg",
+      "https://i.dummyjson.com/data/products/95/3.jpg",
+      "https://i.dummyjson.com/data/products/95/4.jpg",
+      "https://i.dummyjson.com/data/products/95/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Wholesale Cargo Lashing Belt",
+      "Customized Strap with Rubber Handle",
+      "25mm Motorcycle Tie Down"
+    ],
+    "details": "Secure your cargo with the Wholesale Cargo Lashing Belt by Xiangle. This heavy-duty ratchet strap with a customized 25mm strap and rubber handle is designed for motorcycles and ensures reliable tie-down for your cargo."
+  },
+  {
+    "id": 96,
+    "title": "Lighting Ceiling Kitchen",
+    "description": "Wholesale slim hanging decorative kid room lighting ceiling kitchen chandeliers pendant light modern",
+    "price": 30,
+    "availability": true,
+    "discountPercentage": 14.89,
+    "stock": 96,
+    "brand": "Lighting Brilliance",
+    "subCategory": ["Lighting", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/96/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/96/1.jpg",
+      "https://i.dummyjson.com/data/products/96/2.jpg",
+      "https://i.dummyjson.com/data/products/96/3.jpg",
+      "https://i.dummyjson.com/data/products/96/4.jpg",
+      "https://i.dummyjson.com/data/products/96/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Slim Hanging Design",
+      "Decorative Lighting",
+      "Kid Room Lighting",
+      "Modern Pendant Light"
+    ],
+    "details": "Illuminate your kitchen with the Lighting Brilliance Ceiling Pendant Light. This slim hanging chandelier features decorative lighting suitable for kid rooms, creating a modern and stylish atmosphere."
+  },
+  {
+    "id": 97,
+    "title": "Metal Ceramic Flower",
+    "description": "Metal Ceramic Flower Chandelier Home Lighting American Vintage Hanging Lighting Pendant Lamp",
+    "price": 35,
+    "availability": true,
+    "discountPercentage": 10.94,
+    "stock": 146,
+    "brand": "Ifei Home",
+    "subCategory": ["Lighting", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/97/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/97/1.jpg",
+      "https://i.dummyjson.com/data/products/97/2.jpg",
+      "https://i.dummyjson.com/data/products/97/3.jpg",
+      "https://i.dummyjson.com/data/products/97/4.webp",
+      "https://i.dummyjson.com/data/products/97/thumbnail.jpg"
+    ],
+    "highlights": [
+      "Metal Ceramic Flower Chandelier",
+      "American Vintage Hanging Lighting",
+      "Pendant Lamp"
+    ],
+    "details": "Enhance your home with the Ifei Home Metal Ceramic Flower Chandelier. This American vintage hanging pendant lamp adds a touch of elegance to your home lighting, creating a warm and inviting atmosphere."
+  },
+  {
+    "id": 98,
+    "title": "3 Lights Pendant Kitchen Island",
+    "description": "3 lights pendant kitchen island dining room pendant rice paper chandelier contemporary led pendant light modern chandelier",
+    "price": 34,
+    "availability": true,
+    "discountPercentage": 5.92,
+    "stock": 44,
+    "brand": "DADAWU",
+    "subCategory": ["Lighting", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/98/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/98/1.jpg",
+      "https://i.dummyjson.com/data/products/98/2.jpg",
+      "https://i.dummyjson.com/data/products/98/3.jpg",
+      "https://i.dummyjson.com/data/products/98/4.jpg",
+      "https://i.dummyjson.com/data/products/98/thumbnail.jpg"
+    ],
+    "highlights": [
+      "3 Lights Pendant",
+      "Kitchen Island Lighting",
+      "Contemporary LED Pendant Light"
+    ],
+    "details": "Upgrade your kitchen with the DADAWU 3 Lights Pendant. Perfect for kitchen islands and dining rooms, this contemporary LED pendant light provides modern and efficient lighting for your home."
+  },
+  {
+    "id": 99,
+    "title": "American Vintage Wood Pendant Light",
+    "description": "American Vintage Wood Pendant Light Farmhouse Antique Hanging Lamp Lampara Colgante",
+    "price": 46,
+    "availability": true,
+    "discountPercentage": 8.84,
+    "stock": 138,
+    "brand": "Ifei Home",
+    "subCategory": ["Lighting", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/99/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/99/1.jpg",
+      "https://i.dummyjson.com/data/products/99/2.jpg",
+      "https://i.dummyjson.com/data/products/99/3.jpg",
+      "https://i.dummyjson.com/data/products/99/4.jpg",
+      "https://i.dummyjson.com/data/products/99/thumbnail.jpg"
+    ],
+    "highlights": [
+      "American Vintage Wood Pendant Light",
+      "Farmhouse Antique Hanging Lamp",
+      "Lampara Colgante"
+    ],
+    "details": "Add a rustic touch to your home with the Ifei Home American Vintage Wood Pendant Light. This farmhouse antique hanging lamp, Lampara Colgante, brings vintage charm to your living space."
+  },
+  {
+    "id": 100,
+    "title": "Crystal Chandelier Maria Theresa for 12 Light",
+    "description": "Crystal chandelier Maria Theresa for 12 light",
+    "price": 47,
+    "availability": true,
+    "discountPercentage": 16,
+    "stock": 133,
+    "brand": "YIOSI",
+    "subCategory": ["Lighting", "Home Decoration"],
+    "category": "Home Decoration",
+    "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/100/1.jpg",
+      "https://i.dummyjson.com/data/products/100/2.jpg",
+      "https://i.dummyjson.com/data/products/100/3.jpg",
+      "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
+    ],
+    "highlights": ["Crystal Chandelier", "Maria Theresa", "12 Light"],
+    "details": "Make a statement with the YIOSI Crystal Chandelier. Maria Theresa design with 12 lights, this chandelier adds a touch of glamour and sophistication to any room in your home."
+  },
+  {
+    "title": "Women Winter Jacket",
+    "brand": "Top Sweater",
+    "description": "2021 Custom Winter Fall Zebra Knit Crop Top Women Sweaters Wool Mohair...",
+    "price": 600,
+    "discountPercentage": 17.2,
+    "availability": true,
+    "stock": 55,
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/o/t/n/m-no-slc-women-winter-jackets-slc-original-imags224hqgh7frh.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/o/t/n/m-no-slc-women-winter-jackets-slc-original-imags224hqgh7frh.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/c/j/4/-original-imags8vvsssfxegb.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/8/h/y/-original-imags8vvhmx58fpy.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/b/w/x/-original-imags8vvbx522k8p.jpeg?q=70"
+    ],
+    "category": "T Shirts",
+    "subCategory": [
+      "Tops",
+      "Womens Dresses",
+      "Jacket",
+      "Clothes",
+      "T Shirts",
+      "Winters"
+    ],
+    "sizes": ["S", "M", "XL"],
+    "highlights": [
+      "Stylish Winter Jacket",
+      "Custom Winter Fall Design",
+      "Knit Crop Top",
+      "Made with Women's Sweaters Wool Mohair",
+      "Available in Multiple Sizes"
+    ],
+    "details": "Stay warm and stylish with our Women Winter Jacket. This jacket features a custom winter fall zebra design, a knit crop top, and is made with high-quality women's sweaters wool mohair. Available in sizes S, M, and XL."
+  },
+  {
+    "title": "Men Solid Bomber Jacket",
+    "brand": "Top Sweater",
+    "description": "2021 Custom Winter Fall Zebra Men Solid Bomber Jacket",
+    "price": 500,
+    "discountPercentage": 14.2,
+    "availability": true,
+    "stock": 55,
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/n/5/s/l-no-bmwj011000-14-dollar-original-imagtg5eyd7hajtf.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/n/5/s/l-no-bmwj011000-14-dollar-original-imagtg5eyd7hajtf.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/w/i/g/l-no-bmwj011000-14-dollar-original-imagtg5euzc28fgt.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/l/j/p/l-no-bmwj011000-14-dollar-original-imagtg5en8ahxqyt.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/f/t/g/l-no-bmwj011000-14-dollar-original-imagtg5ezxfwbvhq.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/p/n/v/l-no-bmwj011000-14-dollar-original-imagtg5egkpgegkf.jpeg?q=70"
+    ],
+    "category": "Jacket",
+    "subCategory": [
+      "Tops",
+      "Mens",
+      "Mens Jacket",
+      "Clothes",
+      "T Shirts",
+      "Winters",
+      "Mens Collection"
+    ],
+    "sizes": ["S", "M", "XL"],
+    "highlights": [
+      "Men Solid Bomber Jacket",
+      "Custom Winter Fall Zebra Design",
+      "Stylish and Comfortable",
+      "Available in Multiple Sizes"
+    ],
+    "details": "Upgrade your winter wardrobe with our Men Solid Bomber Jacket. This jacket features a custom winter fall zebra design, providing a stylish and comfortable option for the winter season. Available in sizes S, M, and XL."
+  },
+  {
+    "title": "Women Self Design Casual Jacket",
+    "brand": "Breil By Fort Collins",
+    "description": "2021 Custom Winter Fall Zebra",
+    "price": 600,
+    "discountPercentage": 17.2,
+    "availability": true,
+    "stock": 55,
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/u/z/m/m-1-no-90170y-breil-by-fort-collins-original-imagvbzaxd63vt78.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/e/0/y/m-1-no-90170y-breil-by-fort-collins-original-imagvbzat3mdmguf.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/e/0/y/m-1-no-90170y-breil-by-fort-collins-original-imagvbzat3mdmguf.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/h/h/6/m-1-no-90170y-breil-by-fort-collins-original-imagvbza9zmzpuwd.jpeg?q=70"
+    ],
+    "rating": [],
+    "category": "T Shirts",
+    "subCategory": ["Tops", "Jacket", "Clothes", "T Shirts", "Winters"],
+    "sizes": ["S", "M", "XL"],
+    "highlights": [
+      "Stylish Self Design Casual Jacket",
+      "Custom Winter Fall Zebra",
+      "High-Quality Material",
+      "Available in Multiple Sizes"
+    ],
+    "details": "Elevate your style with our Women Self Design Casual Jacket. Featuring a custom winter fall zebra design and high-quality material, this jacket is perfect for a fashionable winter look. Available in sizes S, M, and XL."
+  },
+  {
+    "title": "Men Striped Padded Jacket",
+    "description": "2021 Custom Winter Fall Zebra Men Solid Bomber Jacket",
+    "price": 500,
+    "availability": true,
+    "discountPercentage": 14.2,
+    "stock": 55,
+    "brand": "Roadster",
+    "subCategory": [
+      "Tops",
+      "Mens",
+      "Mens Jacket",
+      "Mens Collection",
+      "Clothes",
+      "T Shirts",
+      "Winters"
+    ],
+    "category": "Jacket",
+    "sizes": ["S", "M", "XL"],
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/t/f/p/m-11969476-roadster-original-imafyurzyz4pknwg.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/3/p/j/m-11969476-roadster-original-imafyurzrp9dugvd.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/w/h/l/m-11969476-roadster-original-imafyurzanhgqnfg.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/kj8wccw0-0/jacket/3/z/z/m-11969476-roadster-original-imafyurzujwzg3gt.jpeg?q=70"
+    ],
+    "highlights": [
+      "Men Striped Padded Jacket",
+      "Custom Winter Fall Zebra Design",
+      "Comfortable and Warm",
+      "Available in Multiple Sizes"
+    ],
+    "details": "Introducing our Men Striped Padded Jacket, featuring a custom winter fall zebra design. Stay comfortable and warm with this stylish jacket, perfect for the winter season. Available in sizes S, M, and XL."
+  },
+  {
+    "id": 39,
+    "title": "Protective Gloves",
+    "description": "Solid Protective Men & Women Gloves",
+    "price": 100,
+    "availability": true,
+    "discountPercentage": 17.2,
+    "stock": 55,
+    "brand": "TC Reusable",
+    "subCategory": ["Automotive", "Hardware", "Gloves"],
+    "category": "Automotive",
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/glove/b/h/s/free-1-1-ins-traders-original-imagvr66qdk9gpgs.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/km82d8w0/gardening-shoulder-glove/o/m/p/gardening-and-planting-gloves-for-men-and-women-with-breathable-original-imagf626cqa3uxq2.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/glove/z/z/r/free-1-1-ins-traders-original-imagvr66n6fr4nky.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/glove/b/h/s/free-1-1-ins-traders-original-imagvr66qdk9gpgs.jpeg?q=70"
+    ],
+    "highlights": [
+      "Solid Protective Gloves",
+      "For Men & Women",
+      "Brand: TC Reusable"
+    ],
+    "details": "Ensure your safety with these Solid Protective Gloves. Suitable for both men and women, these gloves provide reliable protection. Brand: TC Reusable."
+  },
+  {
+    "id": 39,
+    "title": "Winter Woolen Gloves",
+    "description": "Thick Black Woolen Gloves - Pack of 2",
+    "price": 100,
+    "availability": true,
+    "discountPercentage": 17.2,
+    "stock": 55,
+    "brand": "SastaSales",
+    "subCategory": ["Automotive", "Hardware", "Gloves"],
+    "category": "Automotive",
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/glove/q/6/p/free-thick-black-woolen-gloves-sastasales-original-imagu9urgkgyjzeb.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/glove/v/8/z/free-thick-black-woolen-gloves-sastasales-original-imaghwqkqhv6z4cs.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-glove/s/y/a/free-thick-driving-winter-glove-and-knitted-woolen-glove-combo-original-imagkh8tdxxnjkzb.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/glove/0/0/9/free-thick-black-woolen-gloves-sastasales-original-imaghgntyh4qv4tv.jpeg?q=70"
+    ],
+    "highlights": [
+      "Thick Black Woolen Gloves",
+      "Pack of 2",
+      "Brand: SastaSales"
+    ],
+    "details": "Stay warm in winter with these Thick Black Woolen Gloves. The pack includes two pairs, providing both warmth and style. Brand: SastaSales."
+  },
+  {
+    "id": 1,
+    "title": "boAt Airdopes Alpha",
+    "description": "boAt Airdopes Alpha with 35 HRS Playback, 13mm Drivers, Dual Mics ENx & Beast Mode Bluetooth Headset  (Jet Black, In the Ear)",
+    "price": 120,
+    "availability": true,
+    "discountPercentage": 10.96,
+    "stock": 44,
+    "brand": "boAt",
+    "subCategory": ["Headphone", "Electronic"],
+    "category": "Headphone",
+    "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/j/u/-original-imagqre8hcncxaxk.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/t/j/u/-original-imagqre8hcncxaxk.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/u/l/z/-original-imagr5j7tfsrgx5q.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/z/q/z/-original-imagr5j7qnzgggeb.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/c/c/v/-original-imagr5j7hauyvyjh.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/i/a/x/-original-imagqre89m84dgkm.jpeg?q=70"
+    ],
+    "highlights": [
+      "35 HRS Playback",
+      "13mm Drivers",
+      "Dual Mics ENx & Beast Mode",
+      "Brand: boAt"
+    ],
+    "details": "Immerse yourself in music with boAt Airdopes Alpha. Enjoy up to 35 HRS of playback, 13mm drivers, and dual mics with ENx & Beast Mode. Brand: boAt."
+  },
+  {
+    "id": 1,
+    "title": "Worricow Headphone",
+    "description": "Worricow Over the Head Wireless Active Noise Cancellation, HD Sound Bluetooth Headset  (Black, In the Ear)",
+    "price": 200,
+    "availability": true,
+    "discountPercentage": 5.96,
+    "stock": 47,
+    "brand": "Worricow",
+    "subCategory": ["Headphone", "Electronic"],
+    "category": "Headphone",
+    "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/e/s/h/p47-wireless-headphone-black-janrock-original-imaggugwdh8a2kpa.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/a/d/i/47-wireless-portable-gaming-headphone-microphone-stereo-card-original-imafz89ckaudhjwb.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/r/d/7/p47-wireless-active-noise-cancellation-thumping-bass-headphone-original-imagqhnggg47g4fj.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/e/s/h/p47-wireless-headphone-black-janrock-original-imaggugwdh8a2kpa.jpeg?q=70"
+    ],
+    "highlights": [
+      "Wireless Active Noise Cancellation",
+      "HD Sound",
+      "Brand: Worricow"
+    ],
+    "details": "Experience superior sound quality with Worricow Over the Head Wireless Headset. Features active noise cancellation and HD sound. Brand: Worricow."
+  },
+  {
+    "id": 1,
+    "title": "Boult Headphone",
+    "description": "Boult Audio Z40 with Zen ENC Mic, 60H Battery Life, Low Latency Gaming, Made In India, 5.3 Bluetooth Headset  (Blue, In the Ear)",
+    "price": 150,
+    "availability": true,
+    "discountPercentage": 11.96,
+    "stock": 10,
+    "brand": "Boult",
+    "subCategory": ["Headphone", "Electronic"],
+    "category": "Headphone",
+    "thumbnail": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/z/v/y/-original-imagmuggusa94g3u.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/3/z/x/-original-imagtvpyrzszyd8y.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/l/3/g/-original-imagtvqtfcetd3fs.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/c/j/b/-original-imagtvpy9kyext2s.jpeg?q=70"
+    ],
+    "highlights": [
+      "Zen ENC Mic",
+      "60H Battery Life",
+      "Low Latency Gaming",
+      "Brand: Boult"
+    ],
+    "details": "Enhance your gaming experience with Boult Audio Z40. Features Zen ENC Mic, 60H battery life, and low latency gaming. Made in India. Brand: Boult."
+  },
+  {
+    "id": 38,
+    "title": "sublimation plain kids tank",
+    "description": "Baby Boys Casual T-shirt Pyjama  (Beige)",
+    "price": 482,
+    "availability": true,
+    "discountPercentage": 11.12,
+    "stock": 20,
+    "brand": "Soft Cotton",
+    "subCategory": ["Kids Clothes", "Clothes", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "L", "XL"],
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/s/z/6/18-24-months-2122-babygo-original-imaghaygvtctmswp.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/e/y/l/18-24-months-2122-babygo-original-imaghaygyjab9jzx.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/s/z/6/18-24-months-2122-babygo-original-imaghaygvtctmswp.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/s/z/6/18-24-months-2122-babygo-original-imaghaygvtctmswp.jpeg?q=70"
+    ],
+    "highlights": [
+      "Casual T-shirt Pyjama",
+      "Color: Beige",
+      "Brand: Soft Cotton"
+    ],
+    "details": "Dress your baby boy in style with this Casual T-shirt Pyjama in beige. Made from soft cotton for comfort. Available in sizes S, M, L, XL. Brand: Soft Cotton."
+  },
+  {
+    "id": 38,
+    "title": "Girls Casual",
+    "description": "Girls Casual Sweatshirt Sweatpant (Pink)",
+    "price": 482,
+    "availability": true,
+    "discountPercentage": 11.12,
+    "stock": 20,
+    "brand": "NautiNati",
+    "subCategory": ["Kids Clothes", "Clothes", "T Shirts"],
+    "category": "T Shirts",
+    "sizes": ["S", "M", "L", "XL"],
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/e/5/4/7-8-years-nn314-165-nautinati-original-imaguhubzcjghyg8.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/g/w/v/7-8-years-nn314-165-nautinati-original-imaguhubz4zh9ncj.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/c/d/u/7-8-years-nn314-165-nautinati-original-imaguhubqzx5j75f.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/7/j/e/7-8-years-nn314-165-nautinati-original-imaguhubfeaqjvuk.jpeg?q=70"
+    ],
+    "highlights": [
+      "Casual Sweatshirt and Sweatpant Set",
+      "Color: Pink",
+      "Available Sizes: S, M, L, XL",
+      "Brand: NautiNati"
+    ],
+    "details": "Let your little one stay comfortable and stylish with the Girls Casual Sweatshirt and Sweatpant Set in pink. This set from NautiNati is perfect for casual wear and comes in sizes S, M, L, and XL."
+  },
+  {
+    "id": 43,
+    "title": "Frock Gold Printed Lehenga Choli",
+    "description": "Self Design Semi Stitched Lehenga Choli (Dark Green, Beige)",
+    "price": 1200,
+    "availability": true,
+    "discountPercentage": 10.55,
+    "stock": 150,
+    "brand": "PURVAJA",
+    "subCategory": ["Womens Dresses", "Clothes", "Wedding"],
+    "category": "Wedding",
+    "sizes": ["L", "XL"],
+    "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/r/g/y/free-sleeveless-gulabo-purvaja-original-imagqarntykdgjyz.jpeg?q=70",
+    "images": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/r/g/y/free-sleeveless-gulabo-purvaja-original-imagqarntykdgjyz.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/i/n/n/free-sleeveless-gulabo-purvaja-original-imagqarnxafetyne.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/o/v/r/free-sleeveless-gulabo-purvaja-original-imagqarnwkfunmsk.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/lehenga-choli/u/i/d/free-sleeveless-gulabo-purvaja-original-imagqarnw4qezfwd.jpeg?q=70"
+    ],
+    "highlights": [
+      "Gold Printed Lehenga Choli",
+      "Dark Green and Beige",
+      "Semi Stitched",
+      "Available Sizes: L, XL",
+      "Brand: PURVAJA"
+    ],
+    "details": "Dress elegantly for weddings with the Frock Gold Printed Lehenga Choli. This self-design semi-stitched lehenga choli comes in dark green and beige colors, offering a stylish and comfortable fit. Available in sizes L and XL."
+  },
+  {
+    "id": 44,
+    "title": "Sherwani For MEN",
+    "description": "SG LEMAN Sherwani For Men",
+    "price": 1500,
+    "availability": true,
+    "discountPercentage": 11.55,
+    "stock": 150,
+    "brand": "PURVAJA",
+    "subCategory": [
+      "Mens Dresses",
+      "Groom Dress",
+      "Mens Collection",
+      "Clothes",
+      "Wedding"
+    ],
+    "category": "Wedding",
+    "sizes": ["M", "L", "XL"],
+    "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61YVGPeiJYL._SX679_.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51Y6iM12+YL._SX679_.jpg",
+      "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/51Ng58iEe7L._SX679_.jpg",
+      "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71G5yJV3woL._SX679_.jpg"
+    ],
+    "highlights": [
+      "Sherwani for Men",
+      "Available Sizes: M, L, XL",
+      "Brand: PURVAJA"
+    ],
+    "details": "Dress elegantly for weddings with the SG LEMAN Sherwani For Men. This sherwani comes in sizes M, L, and XL, offering a stylish and comfortable fit for the groom. Make a statement on your special day with this exquisite piece from PURVAJA."
+  }
+]
